@@ -1,0 +1,21 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Büchel e Sommer 2004]{Buechel2004}
+\abntrefinfo{Büchel e Sommer}{BüCHEL; SOMMER}{2004}
+{BüCHEL, Christian; SOMMER, Martin. What causes stuttering?
+\textbf{PLOS Biology}, Public Library of Science, v.~2, n.~2, 02 2004.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1371/journal.pbio.0020046}.}
+
+\bibitem[Merlo 2013]{Merlo2018}
+\abntrefinfo{Merlo}{MERLO}{2013}
+{MERLO, Sandra. Caracterização da gagueira.
+\textbf{Instituto Brasileiro de Fluência - IBF}, 2013.
+Dispon{\'\i}vel em:
+  \url{http://www.gagueira.org.br/conteudo.asp?id\_conteudo=29}.}
+
+\end{thebibliography}

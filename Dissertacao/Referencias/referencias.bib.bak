@@ -1,0 +1,28 @@
+% Encoding: UTF-8
+
+@Article{Buechel2004,
+  author    = {Büchel, Christian AND Sommer, Martin},
+  title     = {What Causes Stuttering?},
+  journal   = {PLOS Biology},
+  year      = {2004},
+  volume    = {2},
+  number    = {2},
+  month     = {02},
+  abstract  = {The mystery of a sometimes debilitating speech disorder is examined by cognitive neuroscientists.},
+  doi       = {10.1371/journal.pbio.0020046},
+  publisher = {Public Library of Science},
+  url       = {https://doi.org/10.1371/journal.pbio.0020046},
+}
+
+@Article{Merlo2018,
+  author  = {Merlo, Sandra},
+  title   = {Caracterização da gagueira.},
+  journal = {Instituto Brasileiro de Fluência - IBF},
+  year    = {2013},
+  url     = {http://www.gagueira.org.br/conteudo.asp?id_conteudo=29},
+}
+
+@Article{,
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
