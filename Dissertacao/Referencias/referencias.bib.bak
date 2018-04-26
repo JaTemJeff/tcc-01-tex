@@ -1,7 +1,7 @@
 % Encoding: UTF-8
 
 @Article{Buechel2004,
-  author    = {Büchel, Christian AND Sommer, Martin},
+  author    = {Buchel, Christian AND Sommer, Martin},
   title     = {What Causes Stuttering?},
   journal   = {PLOS Biology},
   year      = {2004},
@@ -14,15 +14,20 @@
   url       = {https://doi.org/10.1371/journal.pbio.0020046},
 }
 
-@Article{Merlo2018,
+@Article{Merlo2013,
   author  = {Merlo, Sandra},
-  title   = {Caracterização da gagueira.},
+  title   = {Caracteriza\c{c}\~ao da gagueira.},
   journal = {Instituto Brasileiro de Fluência - IBF},
   year    = {2013},
   url     = {http://www.gagueira.org.br/conteudo.asp?id_conteudo=29},
 }
 
-@Article{,
+@Article{Fiorin2015,
+  author  = {Fiorin, Michele},
+  title   = {Comparação do Efeito Imediato da Retroalimenta\c{c}~ao Auditiva Atrasada, Mascarada e Amplificada na Fala de Gagos e de N\~ao Gagos.},
+  journal = {Univerisdade Estadual Paulista - Programa de P\'os-Gradua\c{c}~ao em Fonoaudiologia.},
+  year    = {2015},
+  url     = {http://br.123dok.com/document/ozlx3egz-comparacao-do-efeito-imediato-da-retroalimentacao-auditiva-atrasada-mascarada-e-amplificada-na-fala-de-gagos-e-de-nao-gagos.html},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
