@@ -5,17 +5,33 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
-\bibitem[Büchel e Sommer 2004]{Buechel2004}
-\abntrefinfo{Büchel e Sommer}{BüCHEL; SOMMER}{2004}
-{BüCHEL, Christian; SOMMER, Martin. What causes stuttering?
+\bibitem[Andrade et al. 2008]{Andrade2008}
+\abntrefinfo{Andrade et al.}{ANDRADE et al.}{2008}
+{ANDRADE, Claudia Regina Furquim~de et al. The effect of speecheasy on
+  stuttering frequency, speech rate and speech naturalness.
+\textbf{Revista da Sociedade Brasileira de Fonoaudiologia}, scielo, v.~13, p.
+  411 -- 412, 00 2008.
+ISSN 1516-8034.
+Dispon{\'\i}vel em:
+  \url{http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S1516-80342008000400018&nrm=iso}.}
+
+\bibitem[Buchel e Sommer 2004]{Buechel2004}
+\abntrefinfo{Buchel e Sommer}{BUCHEL; SOMMER}{2004}
+{BUCHEL, Christian; SOMMER, Martin. What causes stuttering?
 \textbf{PLOS Biology}, Public Library of Science, v.~2, n.~2, 02 2004.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1371/journal.pbio.0020046}.}
 
-\bibitem[Merlo 2013]{Merlo2018}
+\bibitem[Merlo 2013]{Merlo2013}
 \abntrefinfo{Merlo}{MERLO}{2013}
-{MERLO, Sandra. Caracterização da gagueira.
-\textbf{Instituto Brasileiro de Fluência - IBF}, 2013.
+{MERLO, Sandra. Caracteriza\c{c}\~ao da gagueira.
+\textbf{Instituto Brasileiro de Flu\^encia - IBF}, 2013.
 Dispon{\'\i}vel em:
   \url{http://www.gagueira.org.br/conteudo.asp?id\_conteudo=29}.}
+
+\bibitem[Udemo 2008]{Udemo2008}
+\abntrefinfo{Udemo}{UDEMO}{2008}
+{UDEMO. Efeito coro.
+\textbf{Folha de S\~ao Paulo}, 2008.
+Dispon{\'\i}vel em: \url{http://www.udemo.org.br/Leituras/Leituras\_161.htm}.}
 
 \end{thebibliography}

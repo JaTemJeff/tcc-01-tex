@@ -1,5 +1,20 @@
 % Encoding: UTF-8
 
+@Article{Andrade2008,
+  author    = {Andrade, Claudia Regina Furquim de AND Andrade, Camila Quintiliano de AND Buoso, Daniel da Silva AND Silva, Lidiane Dias AND Juste, Fab\~A\-ola Star\~A\textthreesuperiorbole},
+  title     = {The effect of SpeechEasy on stuttering frequency, speech rate and speech naturalness},
+  journal   = {Revista da Sociedade Brasileira de Fonoaudiologia},
+  year      = {2008},
+  volume    = {13},
+  pages     = {411 - 412},
+  month     = {00},
+  issn      = {1516-8034},
+  crossref  = {10.1590/S1516-80342008000400018},
+  language  = {pt},
+  publisher = {scielo},
+  url       = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-80342008000400018&nrm=iso},
+}
+
 @Article{Buechel2004,
   author    = {Buchel, Christian AND Sommer, Martin},
   title     = {What Causes Stuttering?},
@@ -17,17 +32,25 @@
 @Article{Merlo2013,
   author  = {Merlo, Sandra},
   title   = {Caracteriza\c{c}\~ao da gagueira.},
-  journal = {Instituto Brasileiro de Fluência - IBF},
+  journal = {Instituto Brasileiro de Flu\^encia - IBF},
   year    = {2013},
   url     = {http://www.gagueira.org.br/conteudo.asp?id_conteudo=29},
 }
 
 @Article{Fiorin2015,
   author  = {Fiorin, Michele},
-  title   = {Comparação do Efeito Imediato da Retroalimenta\c{c}~ao Auditiva Atrasada, Mascarada e Amplificada na Fala de Gagos e de N\~ao Gagos.},
-  journal = {Univerisdade Estadual Paulista - Programa de P\'os-Gradua\c{c}~ao em Fonoaudiologia.},
+  title   = {Compara\c{c}\~ao do Efeito Imediato da Retroalimenta\c{c}\~ao Auditiva Atrasada, Mascarada e Amplificada na Fala de Gagos e de N\~ao Gagos.},
+  journal = {Univerisdade Estadual Paulista - Programa de P\'os-Gradua\c{c}\~ao em Fonoaudiologia.},
   year    = {2015},
   url     = {http://br.123dok.com/document/ozlx3egz-comparacao-do-efeito-imediato-da-retroalimentacao-auditiva-atrasada-mascarada-e-amplificada-na-fala-de-gagos-e-de-nao-gagos.html},
+}
+
+@Article{Udemo2008,
+  author  = {Udemo},
+  title   = {Efeito coro},
+  journal = {Folha de S\~ao Paulo},
+  year    = {2008},
+  url     = {http://www.udemo.org.br/Leituras/Leituras_161.htm},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -3,6 +3,8 @@ A level-1 auxiliary file: errata.aux
 The style file: abntex2-alf.bst
 Database file #1: abntex2-options.bib
 Database file #2: referencias/referencias.bib
+A bad cross reference---entry "Andrade2008"
+refers to entry "10.1590/S1516-80342008000400018", which doesn't exist
 Warning--I didn't find a database entry for "NBR14724:2011"
 Warning--I didn't find a database entry for "ATmega8515:datasheet"
 Warning--I didn't find a database entry for "UTFPR2008"
@@ -20,10 +22,10 @@ Warning--I didn't find a database entry for "TeXnicCenter2009"
 Warning--I didn't find a database entry for "MiKTeX2009"
 Warning--I didn't find a database entry for "JabRef2009"
 Warning--I didn't find a database entry for "Mendeley2009"
-Warning--I didn't find a database entry for "NBR14724:2005"
+Warning--I didn't find a database entry for "10.1590/S1516-80342008000400018"
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There were 18 warnings)
+(There was 1 error message)

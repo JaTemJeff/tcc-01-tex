@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.23)  24 APR 2018 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.23)  30 APR 2018 14:51
 entering extended mode
 **./modelo_dissertacao.tex
 (modelo_dissertacao.tex
@@ -1962,25 +1962,16 @@ Package babel Warning: Unknown language `french'. Either you have
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
- (modelo_dissertacao.flt
-
-LaTeX Warning: Citation `ATmega8515:datasheet' on page 11 undefined on input li
-ne 5.
-
-)
+ (modelo_dissertacao.flt)
 \openout4 = `modelo_dissertacao.mw'.
 
  [11
 
-] (modelo_dissertacao.mw)
+]
+(modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
- (modelo_dissertacao.lof
-
-LaTeX Warning: Citation `ATmega8515:datasheet' on page 12 undefined on input li
-ne 6.
-
-)
+ (modelo_dissertacao.lof)
 \openout4 = `modelo_dissertacao.mw'.
 
  [12
@@ -1989,58 +1980,53 @@ ne 6.
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
- (modelo_dissertacao.lot
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 3.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.79993pt on input line 3.
-)
+
+(modelo_dissertacao.lot)
 \openout4 = `modelo_dissertacao.mw'.
 
  [13
 
 
-]
-(modelo_dissertacao.mw)
+] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
  (modelo_dissertacao.qdr)
 \openout4 = `modelo_dissertacao.mw'.
 
- [14
+
+[14
 
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-
-(modelo_dissertacao.grf)
+ (modelo_dissertacao.grf)
 \openout4 = `modelo_dissertacao.mw'.
 
  [15
 
 
-] (modelo_dissertacao.mw)
+]
+(modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
  (modelo_dissertacao.ftg)
 \openout4 = `modelo_dissertacao.mw'.
 
-
-[16
+ [16
 
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
- (modelo_dissertacao.flx)
+
+(modelo_dissertacao.flx)
 \openout4 = `modelo_dissertacao.mw'.
 
  [17
 
 
-]
-(modelo_dissertacao.mw)
+] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 \instream=\read3
@@ -2051,11 +2037,11 @@ tacao.nls)...executed (allowed).
 runsystem(makeindex modelo_dissertacao.abreviax -s tabela-abreviaturas.ist -o m
 odelo_dissertacao.abrevia)...executed (allowed).
 
- (modelo_dissertacao.abrevia)
+
+(modelo_dissertacao.abrevia)
 \openout4 = `modelo_dissertacao.mw'.
 
-
-[18
+ [18
 
 
 
@@ -2065,40 +2051,21 @@ odelo_dissertacao.abrevia)...executed (allowed).
 runsystem(makeindex modelo_dissertacao.acronx -s tabela-abreviaturas.ist -o mod
 elo_dissertacao.acron)...executed (allowed).
 
- (modelo_dissertacao.acron)
+
+(modelo_dissertacao.acron)
 \openout4 = `modelo_dissertacao.mw'.
 
  [19
 
 
-]
-(modelo_dissertacao.mw)
+] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 \instream=\read4
- (modelo_dissertacao.los
-Overfull \hbox (6.82881pt too wide) in paragraph at lines 1--1
-[][][] [][][][] 
- []
-
-
-Overfull \hbox (6.82881pt too wide) in paragraph at lines 2--2
-[][][] [][][][] 
- []
-
-
-Overfull \hbox (6.82881pt too wide) in paragraph at lines 3--3
-[][][] [][][][] 
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1--197
-
- []
-
+ (modelo_dissertacao.los)
 \openout4 = `modelo_dissertacao.mw'.
 
-[20
+ [20
 
 
 ] (modelo_dissertacao.mw)
@@ -2128,10 +2095,44 @@ LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
 
 
 (capitulo1/cap1.tex
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.79993pt on input line 6.
+\openout4 = `modelo_dissertacao.mw'.
+
+ [23
+
+
+] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+) (capitulo2/cap2.tex
+\openout4 = `modelo_dissertacao.mw'.
+
+[24] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+) (capitulo3/cap3.tex
+\openout4 = `modelo_dissertacao.mw'.
+
+ [25
+
+] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 7.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 11.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+(Font)              scaled to size 7.19995pt on input line 4.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -2140,405 +2141,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-LaTeX Warning: Citation `UTFPR2008' on page 23 undefined on input line 17.
-
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 22.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
-\openout4 = `modelo_dissertacao.mw'.
-
- [23
+LaTeX Warning: Citation `CTAN2009' on page 26 undefined on input line 4.
 
 
-]
-(modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-) (capitulo2/cap2.tex
-\openout4 = `modelo_dissertacao.mw'.
-
- [24] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-<./figuras/errata1.jpg, id=326, 746.01291pt x 559.50967pt>
-File: ./figuras/errata1.jpg Graphic file (type jpg)
-<use ./figuras/errata1.jpg>
-Package pdftex.def Info: ./figuras/errata1.jpg  used on input line 19.
-(pdftex.def)             Requested size: 455.24411pt x 341.43701pt.
-<./figuras/errata2.jpg, id=327, 652.4375pt x 134.5025pt>
-File: ./figuras/errata2.jpg Graphic file (type jpg)
-<use ./figuras/errata2.jpg>
-Package pdftex.def Info: ./figuras/errata2.jpg  used on input line 27.
-(pdftex.def)             Requested size: 455.24411pt x 93.8535pt.
-\openout4 = `modelo_dissertacao.mw'.
+LaTeX Warning: Citation `TeX-Br2009' on page 26 undefined on input line 4.
 
 
-[25
-
- <./figuras/errata1.jpg>] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
- [26 <./figuras/errata2.jpg>] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
+LaTeX Warning: Citation `Wikibooks2009' on page 26 undefined on input line 4.
 
 
-
-LaTeX Warning: Citation `Goossens2007' on page 27 undefined on input line 71.
-
-<./figuras/dummy.png, id=352, 301.125pt x 301.125pt>
-File: ./figuras/dummy.png Graphic file (type png)
-<use ./figuras/dummy.png>
-Package pdftex.def Info: ./figuras/dummy.png  used on input line 78.
-(pdftex.def)             Requested size: 88.31612pt x 88.31648pt.
-
-LaTeX Warning: Citation `abnTeX2009' on page 27 undefined on input line 79.
-
-<./figuras/mica2back.jpg, id=354, 725.53412pt x 544.15059pt>
-File: ./figuras/mica2back.jpg Graphic file (type jpg)
-<use ./figuras/mica2back.jpg>
-Package pdftex.def Info: ./figuras/mica2back.jpg  used on input line 88.
-(pdftex.def)             Requested size: 189.68614pt x 142.26378pt.
-<./figuras/mica2dotback.jpg, id=355, 725.53412pt x 544.15059pt>
-File: ./figuras/mica2dotback.jpg Graphic file (type jpg)
-<use ./figuras/mica2dotback.jpg>
-Package pdftex.def Info: ./figuras/mica2dotback.jpg  used on input line 89.
-(pdftex.def)             Requested size: 189.68614pt x 142.26378pt.
-
-LaTeX Warning: Citation `ATmega8515:datasheet' on page 27 undefined on input li
-ne 98.
-
-<./figuras/avrprg.png, id=357, 248.42813pt x 356.0803pt>
-File: ./figuras/avrprg.png Graphic file (type png)
-<use ./figuras/avrprg.png>
-Package pdftex.def Info: ./figuras/avrprg.png  used on input line 110.
-(pdftex.def)             Requested size: 198.51532pt x 284.52756pt.
-<./figuras/avrdata.png, id=358, 249.93375pt x 494.59781pt>
-File: ./figuras/avrdata.png Graphic file (type png)
-<use ./figuras/avrdata.png>
-Package pdftex.def Info: ./figuras/avrdata.png  used on input line 110.
-(pdftex.def)             Requested size: 143.77943pt x 284.52756pt.
-
-LaTeX Warning: Citation `Goossens2007' on page 27 undefined on input line 119.
-
-<./figuras/distribuicao-da-populacao-brasileira.jpg, id=360, 286.06876pt x 161.
-85469pt>
-File: ./figuras/distribuicao-da-populacao-brasileira.jpg Graphic file (type jpg
-)
-<use ./figuras/distribuicao-da-populacao-brasileira.jpg>
-Package pdftex.def Info: ./figuras/distribuicao-da-populacao-brasileira.jpg  us
-ed on input line 125.
-(pdftex.def)             Requested size: 318.66948pt x 180.30293pt.
-
-LaTeX Warning: Citation `Goossens2007' on page 27 undefined on input line 135.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-[27 <./figuras/dummy.png>] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-<./figuras/spring.jpg, id=367, 642.4pt x 481.8pt>
-File: ./figuras/spring.jpg Graphic file (type jpg)
-<use ./figuras/spring.jpg>
-Package pdftex.def Info: ./figuras/spring.jpg  used on input line 142.
-(pdftex.def)             Requested size: 318.66948pt x 239.01003pt.
-\openout4 = `modelo_dissertacao.mw'.
-
- [28 <./figuras/mica2back.jpg> <./figuras/mica2dotback.jpg> <./figuras/avrprg.p
-ng> <./figuras/avrdata.png>]
-(modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-
-LaTeX Warning: Citation `Goossens2007' on page 29 undefined on input line 151.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-[29 <./figuras/distribuicao-da-populacao-brasileira.jpg> <./figuras/spring.jpg>
-] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-<./figuras/fluxograma_cut.jpg, id=379, 460.72125pt x 390.258pt>
-File: ./figuras/fluxograma_cut.jpg Graphic file (type jpg)
-<use ./figuras/fluxograma_cut.jpg>
-Package pdftex.def Info: ./figuras/fluxograma_cut.jpg  used on input line 158.
-(pdftex.def)             Requested size: 318.66948pt x 269.92738pt.
-\openout4 = `modelo_dissertacao.mw'.
-
- [30 <./figuras/fluxograma_cut.jpg>]
-(modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-
-LaTeX Warning: Citation `Lamport1986' on page 31 undefined on input line 182.
-
-
-LaTeX Warning: Citation `Buerger1989' on page 31 undefined on input line 182.
-
-
-LaTeX Warning: Citation `Kopka2003' on page 31 undefined on input line 182.
-
-
-LaTeX Warning: Citation `Mittelbach2004' on page 31 undefined on input line 182
+LaTeX Warning: Citation `TeXnicCenter2009' on page 26 undefined on input line 6
 .
 
 
-LaTeX Warning: Citation `Lamport1986' on page 31 undefined on input line 235.
+LaTeX Warning: Citation `MiKTeX2009' on page 26 undefined on input line 6.
 
 
-LaTeX Warning: Citation `Buerger1989' on page 31 undefined on input line 235.
+LaTeX Warning: Citation `JabRef2009' on page 26 undefined on input line 8.
 
 
-LaTeX Warning: Citation `Kopka2003' on page 31 undefined on input line 235.
-
-
-LaTeX Warning: Citation `Mittelbach2004' on page 31 undefined on input line 235
-.
-
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 258.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 258.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 8.99994pt on input line 258.
-\openout4 = `modelo_dissertacao.mw'.
-
-[31] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 294.
-\openout4 = `modelo_dissertacao.mw'.
-
- [32] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
-[]\T1/phv/m/n/12 (+20) O texto de-li-mi-tado por um par de pa-rên-te-ses ([][]\
-T1/pcr/m/n/12 \[ []\T1/phv/m/n/12 (+20) e [][]\T1/pcr/m/n/12 \][]\T1/phv/m/n/12
- (+20) ) ou por
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
-\T1/phv/m/n/12 (+20) ``am-bi-en-tes de equa-ção'' como [][]\T1/pcr/m/n/12 \begi
-n{align} ... \end{align} []\T1/phv/m/n/12 (+20) ou
- []
-
-
-Underfull \hbox (badness 5578) in paragraph at lines 299--300
-[][]\T1/pcr/m/n/12 \begin{equation} ... \end{equation} []\T1/phv/m/n/12 (+20) é
- pro-ces-sado pelo T[]Xem ``dis-play
- []
-
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 303.
-\openout4 = `modelo_dissertacao.mw'.
-
-[33] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-Package hyperref Info: bookmark level for unknown simbolo defaults to 0 on inpu
-t line 344.
-
-
-LaTeX Warning: Citation `abnTeX2009' on page 34 undefined on input line 344.
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 344--345
-[]\T1/phv/m/n/12 (+20) O pa-cote \T1/phv/m/sc/12 (+20) abn\T1/phv/m/n/12 (+20) 
-T[]X per-mite ainda a de-fi-ni-ção de si-glas e sím-bo-los com
- []
-
-
-Underfull \hbox (badness 3668) in paragraph at lines 344--345
-\T1/phv/m/n/12 (+20) in-de-xa-ção au-to-má-tica atra-vés dos co-man-dos [][]\T1
-/pcr/m/n/12 \sigla{sigla}{significado} []\T1/phv/m/n/12 (+20) e
- []
-
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 350.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
-File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-)
-Underfull \hbox (badness 10000) in paragraph at lines 350--351
-[]\T1/phv/m/n/12 (+20) O co-mando [][]\T1/pcr/m/n/12 \abrevi{abreviatura}{exten
-so} []\T1/phv/m/n/12 (+20) da classe
- []
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 350--351
-\T1/ptm/m/n/12 (+20) U[]FPRCPT[]X2\T1/phv/m/n/12 (+20) permite a de-fi-ni-ção d
-e abre-vi-a-tu-ras. Por exem-plo, o sig-ni-fi-cado das
- []
-
-\openout4 = `modelo_dissertacao.mw'.
-
-[34] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-
-
-LaTeX Warning: Citation `NBR10520:2002' on page 35 undefined on input line 367.
-
-
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 392.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.99994pt on input line 392.
-
-LaTeX Warning: Citation `NBR14724:2011' on page 35 undefined on input line 411.
-
-
-\openout4 = `modelo_dissertacao.mw'.
-
-[35] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-<./figuras/pitagoras.png, id=440, 353.82187pt x 323.70938pt>
-File: ./figuras/pitagoras.png Graphic file (type png)
-<use ./figuras/pitagoras.png>
-Package pdftex.def Info: ./figuras/pitagoras.png  used on input line 458.
-(pdftex.def)             Requested size: 217.69904pt x 199.16928pt.
-\openout4 = `modelo_dissertacao.mw'.
-
- [36] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
-
- []
-
-\openout4 = `modelo_dissertacao.mw'.
-
-[37 <./figuras/pitagoras.png>] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 506--507
-
- []
-
-
-Underfull \hbox (badness 4479) in paragraph at lines 518--519
-[]\T1/phv/m/n/12 (+20) A lista de al-go-rit-mos é ge-rada au-to-ma-ti-ca-mente 
-utilizando-se o co-mando
- []
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-\openout4 = `modelo_dissertacao.mw'.
-
- [38]
-(modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 651.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-(Capitulo2/matlab.m
-LaTeX Font Info:    Font shape `OMS/phv/m/it' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-)
-\openout4 = `modelo_dissertacao.mw'.
-
- [39] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
- [40] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-
-[41] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
- [42] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-) (capitulo3/cap3.tex
-\openout4 = `modelo_dissertacao.mw'.
-
-
-[43] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-
-LaTeX Warning: Citation `CTAN2009' on page 44 undefined on input line 4.
-
-
-LaTeX Warning: Citation `TeX-Br2009' on page 44 undefined on input line 4.
-
-
-LaTeX Warning: Citation `Wikibooks2009' on page 44 undefined on input line 4.
-
-
-LaTeX Warning: Citation `TeXnicCenter2009' on page 44 undefined on input line 6
-.
-
-
-LaTeX Warning: Citation `MiKTeX2009' on page 44 undefined on input line 6.
-
-
-LaTeX Warning: Citation `JabRef2009' on page 44 undefined on input line 8.
-
-
-LaTeX Warning: Citation `Mendeley2009' on page 44 undefined on input line 8.
+LaTeX Warning: Citation `Mendeley2009' on page 26 undefined on input line 8.
 
 ) (modelo_dissertacao.bbl (modelo_dissertacao.brf)
 \tf@brf=\write26
@@ -2546,7 +2168,7 @@ LaTeX Warning: Citation `Mendeley2009' on page 44 undefined on input line 8.
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [44
+ [26
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2556,17 +2178,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 20.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.19995pt on input line 20.
 )
 runsystem(makeindex modelo_dissertacao.glo -s estilo-glossario.ist -t modelo_di
 ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [45
+ [27
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2574,7 +2192,7 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
  (modelo_dissertacao.gls)
 \openout4 = `modelo_dissertacao.mw'.
 
- [46
+ [28
 
 
 ]
@@ -2583,14 +2201,14 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [47
+ [29
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [48
+ [30
 
 ]
 (modelo_dissertacao.mw)
@@ -2601,7 +2219,7 @@ rtacao.ind)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [49
+ [31
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2940,433 +2558,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
 
 \openout4 = `modelo_dissertacao.mw'.
 
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
 \openout4 = `modelo_dissertacao.brf'.
 
 Package rerunfilecheck Info: File `modelo_dissertacao.brf' has not changed.
-(rerunfilecheck)             Checksum: 0309387916FCBBC49BB65B7D23FB68F2;1820.
+(rerunfilecheck)             Checksum: 3795DD61FCD0D5F04E4C1878875E6EB1;573.
 
 
 LaTeX Warning: There were undefined references.
@@ -3409,52 +2607,21 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
 
  ) 
 Here is how much of TeX's memory you used:
- 36605 strings out of 492976
- 618590 string characters out of 3135982
- 1058009 words of memory out of 3000000
- 39216 multiletter control sequences out of 15000+200000
- 592618 words of font info for 205 fonts, out of 3000000 for 9000
+ 34602 strings out of 492976
+ 596016 string characters out of 3135982
+ 917811 words of memory out of 3000000
+ 37608 multiletter control sequences out of 15000+200000
+ 570898 words of font info for 151 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,17n,102p,10398b,1842s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{glo:peculiar} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
-w/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
-vr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on modelo_dissertacao.pdf (50 pages, 1423758 bytes).
+ 64i,17n,102p,10398b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
+r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on modelo_dissertacao.pdf (32 pages, 446415 bytes).
 PDF statistics:
- 1003 PDF objects out of 1200 (max. 8388607)
- 362 named destinations out of 1000 (max. 500000)
- 37407 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 407 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 22816 words of extra memory for PDF output out of 24883 (max. 10000000)
 
