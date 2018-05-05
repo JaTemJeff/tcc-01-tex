@@ -5,6 +5,13 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Age 2017]{Age2017}
+\abntrefinfo{Age}{AGE}{2017}
+{AGE, Information. Terapia para a gagueira - faa.
+\textbf{Google Play}, 2017.
+Dispon{\'\i}vel em:
+  \url{https://play.google.com/store/apps/details?id=delayed.auditory.feedback.stuttering.therapy.daf}.}
+
 \bibitem[Andrade et al. 2008]{Andrade2008}
 \abntrefinfo{Andrade et al.}{ANDRADE et al.}{2008}
 {ANDRADE, Claudia Regina Furquim~de et al. The effect of speecheasy on
@@ -21,9 +28,15 @@ Dispon{\'\i}vel em:
 \textbf{PLOS Biology}, Public Library of Science, v.~2, n.~2, 02 2004.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1371/journal.pbio.0020046}.}
 
-\bibitem[Medicina 2012]{Artefact2012}
-\abntrefinfo{Medicina}{MEDICINA}{2012}
-{MEDICINA, Artefact~LCC. Daf assistant.
+\bibitem[Confessor 2009]{Confessor2009}
+\abntrefinfo{Confessor}{CONFESSOR}{2009}
+{CONFESSOR, Henrique. Software mais flu\^encia win daf/faf software.
+\textbf{Abra Gagueira}, 2009.
+Dispon{\'\i}vel em: \url{http://www.abragagueira.org.br/mais\_fluencia.asp}.}
+
+\bibitem[LCC 2012]{Artefact2012}
+\abntrefinfo{LCC}{LCC}{2012}
+{LCC, Artefact. Daf assistant.
 \textbf{Google Play}, 2012.
 Dispon{\'\i}vel em:
   \url{https://play.google.com/store/apps/details?id=com.artefactsoft.daf&hl=pt}.}
@@ -41,6 +54,22 @@ Dispon{\'\i}vel em:
 \textbf{Como funciona o SpeechEasy?}, 2015.
 Dispon{\'\i}vel em:
   \url{http://www.microsom.com.br/saiba-mais-sobre-gagueira/saiba-mais-sobre-gagueira-como-funciona/}.}
+
+\bibitem[Ribeiro 2012]{Ribeiro2012}
+\abntrefinfo{Ribeiro}{RIBEIRO}{2012}
+{RIBEIRO, Leandro. O que \'e uml e diagramas de caso de uso: Introdu\c{c}\~ao
+  pr\'atica \`a uml.
+\textbf{Devmedia}, 2012.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408}.}
+
+\bibitem[Tybel 2017]{Tybel2017}
+\abntrefinfo{Tybel}{TYBEL}{2017}
+{TYBEL, Douglas. Orienta\c{c}\~oes b\'asicas na elabora\c{c}\~ao de um diagrama
+  de classes.
+\textbf{Devmedia}, 2017.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224}.}
 
 \bibitem[Udacity 2017]{Udacity2017}
 \abntrefinfo{Udacity}{UDACITY}{2017}

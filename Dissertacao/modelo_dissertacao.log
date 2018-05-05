@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  5 MAY 2018 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  5 MAY 2018 19:29
 entering extended mode
 **./modelo_dissertacao.tex
 (modelo_dissertacao.tex
@@ -1396,6 +1396,44 @@ Package index Info: Writing index file modelo_dissertacao.acronx on input line
 \c@abstable=\count415
 \c@absequation=\count416
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\floatrow.sty"
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count417
+\float@exts=\toks52
+\float@box=\box81
+\@floatcapt=\box82
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks53
+\flrow@foot=\insert251
+\FB@wd=\dimen291
+\FBo@wd=\dimen292
+\FBc@wd=\dimen293
+\FBo@ht=\skip339
+\FBc@ht=\skip340
+\FBf@ht=\skip341
+\FBo@max=\skip342
+\FBc@max=\skip343
+\FBf@max=\skip344
+\c@FBl@b=\count418
+\floatbox@depth=\count419
+\c@FRobj=\count420
+\c@FRsobj=\count421
+\Xhsize=\skip345
+\sXhsize=\skip346
+\Zhsize=\skip347
+\sZhsize=\skip348
+\flrow@rowbox=\box83
+\FR@Zunitlength=\dimen294
+\c@FBcnt=\count422
+\FPOScnt=\count423
+\LTleft=\skip349
+\LTright=\skip350
+\LTleft=\skip351
+\LTright=\skip352
+\flrow@types=\toks54
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -1408,26 +1446,26 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks52
-\thm@bodyfont=\toks53
-\thm@headfont=\toks54
-\thm@notefont=\toks55
-\thm@headpunct=\toks56
-\thm@preskip=\skip339
-\thm@postskip=\skip340
-\thm@headsep=\skip341
-\dth@everypar=\toks57
+\thm@style=\toks55
+\thm@bodyfont=\toks56
+\thm@headfont=\toks57
+\thm@notefont=\toks58
+\thm@headpunct=\toks59
+\thm@preskip=\skip353
+\thm@postskip=\skip354
+\thm@headsep=\skip355
+\dth@everypar=\toks60
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks58
-\footnotemargin=\dimen291
+\FN@temptoken=\toks61
+\footnotemargin=\dimen295
 
 
 LaTeX Warning: Command \@makecol  has changed.
                Check if current package is valid.
 
-\c@pp@next@reset=\count417
+\c@pp@next@reset=\count424
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -1438,33 +1476,33 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count418
-\sf@farskip=\skip342
-\sf@captopadj=\dimen292
-\sf@capskip=\skip343
-\sf@nearskip=\skip344
-\c@subfigure=\count419
-\c@subfigure@save=\count420
-\c@subtable=\count421
-\c@subtable@save=\count422
-\sf@top=\skip345
-\sf@bottom=\skip346
+\c@KVtest=\count425
+\sf@farskip=\skip356
+\sf@captopadj=\dimen296
+\sf@capskip=\skip357
+\sf@nearskip=\skip358
+\c@subfigure=\count426
+\c@subfigure@save=\count427
+\c@subtable=\count428
+\c@subtable@save=\count429
+\sf@top=\skip359
+\sf@bottom=\skip360
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\threeparttable\threeparttable.sty"
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box81
+\@tempboxb=\box84
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count423
+\c@lips@count=\count430
 )
-\c@problema=\count424
-\c@definicao=\count425
-\c@proposicao=\count426
-\c@teorema=\count427
-\c@lema=\count428
-\c@corolario=\count429
-\c@exemplo=\count430
+\c@problema=\count431
+\c@definicao=\count432
+\c@proposicao=\count433
+\c@teorema=\count434
+\c@lema=\count435
+\c@corolario=\count436
+\c@exemplo=\count437
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
@@ -1479,12 +1517,12 @@ Writing nomenclature file modelo_dissertacao.nlo
 \openout4 = `modelo_dissertacao.glo'.
 
 Package glossaries Info: Writing glossary file modelo_dissertacao.glo on input 
-line 62.
+line 65.
 \glo@acronym@file=\write24
 \openout4 = `modelo_dissertacao.acn'.
 
 Package glossaries Info: Writing glossary file modelo_dissertacao.acn on input 
-line 62.
+line 65.
 \@input{entradas_glossario.aux}
 \openout2 = `entradas_glossario.aux'.
 
@@ -1496,29 +1534,29 @@ LaTeX Warning: Unused global option(s):
 (modelo_dissertacao.aux (errata.aux))
 \openout1 = `modelo_dissertacao.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 118.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 115.
-\AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring ON on input line 115.
+(Font)              scaled to size 10.79993pt on input line 118.
+\AtBeginShipoutBox=\box85
+Package hyperref Info: Link coloring ON on input line 118.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1526,13 +1564,13 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count431
+\c@section@level=\count438
 )
-LaTeX Info: Redefining \ref on input line 115.
-LaTeX Info: Redefining \pageref on input line 115.
-LaTeX Info: Redefining \nameref on input line 115.
-\myptabbox=\box83
-\myptabboxwidth=\skip347
+LaTeX Info: Redefining \ref on input line 118.
+LaTeX Info: Redefining \pageref on input line 118.
+LaTeX Info: Redefining \nameref on input line 118.
+\myptabbox=\box86
+\myptabboxwidth=\skip361
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries-english\glossaries-dictionar
 y-English.dict"
@@ -1547,17 +1585,17 @@ ry-Brazilian.dict"
 Dictionary: glossaries-dictionary, Language: Brazilian 
 ) ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count432
-\scratchdimen=\dimen293
-\scratchbox=\box84
-\nofMPsegments=\count433
-\nofMParguments=\count434
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count435
-\MPscratchDim=\dimen294
-\MPnumerator=\count436
-\makeMPintoPDFobject=\count437
-\everyMPtoPDFconversion=\toks60
+\scratchcounter=\count439
+\scratchdimen=\dimen297
+\scratchbox=\box87
+\nofMPsegments=\count440
+\nofMParguments=\count441
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count442
+\MPscratchDim=\dimen298
+\MPnumerator=\count443
+\makeMPintoPDFobject=\count444
+\everyMPtoPDFconversion=\toks63
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1573,7 +1611,7 @@ G,.JBIG2,.JB2,.eps]
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 115.
+(lastpage)             ! on input line 118.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1609,7 +1647,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 115.
+LaTeX Info: Redefining \microtypecontext on input line 118.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1625,30 +1663,45 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count438
-\c@fltdepth=\count439
-\idxtitle@default=\toks61
+\c@lstlisting=\count445
+\c@fltdepth=\count446
+\idxtitle@default=\toks64
 \tf@default=\write25
 \openout4 = `modelo_dissertacao.idx'.
 
-Package index Info: Writing index file modelo_dissertacao.idx on input line 115
+Package index Info: Writing index file modelo_dissertacao.idx on input line 118
 .
+("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\fr-subfig.sty"
+Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
+\FBsc@max=\skip362
+\FBso@max=\skip363
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\fr-longtable.sty"
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box88
+\flrow@LT@prelastfoot=\box89
+\c@FBLTpage=\count447
+)
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 117.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 117.
+(Font)              scaled to size 10.79993pt on input line 120.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 12.59991pt on input line 117.
+(Font)              scaled to size 12.59991pt on input line 120.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 117.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 12.59991pt on input line 117.
+(Font)              scaled to size 12.59991pt on input line 120.
 \openout4 = `modelo_dissertacao.mw'.
 
-[1
+ [1
 
 
 
@@ -1802,7 +1855,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 127.
+LaTeX Font Info:    Try loading font information for U+msa on input line 130.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1810,7 +1863,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 127.
+LaTeX Font Info:    Try loading font information for U+msb on input line 130.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1821,7 +1874,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.127 \folhaderosto[Fichacatalografica]
+l.130 \folhaderosto[Fichacatalografica]
                                        
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -1833,7 +1886,7 @@ l.127 \folhaderosto[Fichacatalografica]
 <Fichacatalografica.jpg, id=15, 417.81094pt x 268.75406pt>
 File: Fichacatalografica.jpg Graphic file (type jpg)
 <use Fichacatalografica.jpg>
-Package pdftex.def Info: Fichacatalografica.jpg  used on input line 127.
+Package pdftex.def Info: Fichacatalografica.jpg  used on input line 130.
 (pdftex.def)             Requested size: 355.68288pt x 213.396pt.
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -1843,16 +1896,16 @@ Package pdftex.def Info: Fichacatalografica.jpg  used on input line 127.
 \openout4 = `modelo_dissertacao.mw'.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 131.
+(Font)              scaled to size 8.99994pt on input line 134.
 <brasao.png, id=20, 260.8947pt x 261.6174pt>
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 131.
+Package pdftex.def Info: brasao.png  used on input line 134.
 (pdftex.def)             Requested size: 62.59605pt x 62.76949pt.
 <logo-utfpr.png, id=22, 48.56544pt x 17.77843pt>
 File: logo-utfpr.png Graphic file (type png)
 <use logo-utfpr.png>
-Package pdftex.def Info: logo-utfpr.png  used on input line 131.
+Package pdftex.def Info: logo-utfpr.png  used on input line 134.
 (pdftex.def)             Requested size: 85.35826pt x 31.24886pt.
 
 
@@ -1934,7 +1987,7 @@ Package babel Warning: Unknown language `french'. Either you have
 (babel)                or you requested it in a previous run. Fix its name,
 (babel)                install it or just rerun the file, respectively.
 (babel)                I'll proceed, but expect wrong results.
-(babel)                Reported on input line 174.
+(babel)                Reported on input line 177.
 
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -1983,108 +2036,33 @@ Package babel Warning: Unknown language `french'. Either you have
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
- (modelo_dissertacao.grf)
-\openout4 = `modelo_dissertacao.mw'.
-
- [14
-
-
-]
-(modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
- (modelo_dissertacao.ftg)
-\openout4 = `modelo_dissertacao.mw'.
-
- [15
-
-
-] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-
-(modelo_dissertacao.flx)
-\openout4 = `modelo_dissertacao.mw'.
-
- [16
-
-
-] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
 \instream=\read3
 runsystem(makeindex modelo_dissertacao.nlo -s utfpr-siglas.ist -o modelo_disser
 tacao.nls)...executed (allowed).
 
- (modelo_dissertacao.nls)
-runsystem(makeindex modelo_dissertacao.abreviax -s tabela-abreviaturas.ist -o m
-odelo_dissertacao.abrevia)...executed (allowed).
-
-
-(modelo_dissertacao.abrevia)
-\openout4 = `modelo_dissertacao.mw'.
-
- [17
-
-
-
-] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-runsystem(makeindex modelo_dissertacao.acronx -s tabela-abreviaturas.ist -o mod
-elo_dissertacao.acron)...executed (allowed).
-
-
-(modelo_dissertacao.acron)
-\openout4 = `modelo_dissertacao.mw'.
-
- [18
-
-
-] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\instream=\read4
- (modelo_dissertacao.los)
-\openout4 = `modelo_dissertacao.mw'.
-
- [19
-
-
-] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
- (modelo_dissertacao.loa)
-\openout4 = `modelo_dissertacao.mw'.
-
- [20
-
-
-]
-(modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
- (modelo_dissertacao.toc
+ (modelo_dissertacao.nls) (modelo_dissertacao.toc
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 10.79993pt on input line 22.
+(Font)              scaled to size 10.79993pt on input line 15.
 )
 \openout4 = `modelo_dissertacao.mw'.
 
- [21
+
+[14
+
+
 
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-
-(capitulo1/cap1.tex
+ (capitulo1/cap1.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 10.79993pt on input line 6.
 \openout4 = `modelo_dissertacao.mw'.
 
- [22
+ [15
 
 
 ] (modelo_dissertacao.mw)
@@ -2100,13 +2078,13 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
 ) (capitulo2/cap2.tex
 \openout4 = `modelo_dissertacao.mw'.
 
-[23] (modelo_dissertacao.mw)
+[16] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 ) (capitulo3/cap3.tex
 \openout4 = `modelo_dissertacao.mw'.
 
- [24
+ [17
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2122,7 +2100,7 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
 \openout4 = `modelo_dissertacao.mw'.
 
 
-[25
+[18
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2147,6 +2125,11 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
 []|\T1/phv/b/n/12 Requisitos
  []
+
+\openout4 = `modelo_dissertacao.mw'.
+
+[19] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--97
@@ -2183,33 +2166,45 @@ Overfull \hbox (5.06636pt too wide) in paragraph at lines 104--104
 []|\T1/phv/m/n/12 (-20) RNF04| 
  []
 
-<./Figuras/class_diagram.png, id=256, 641.39626pt x 594.72188pt>
+\openout4 = `modelo_dissertacao.mw'.
+
+[20] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+<./Figuras/class_diagram.png, id=228, 641.39626pt x 611.28375pt>
 File: ./Figuras/class_diagram.png Graphic file (type png)
 <use ./Figuras/class_diagram.png>
-Package pdftex.def Info: ./Figuras/class_diagram.png  used on input line 116.
-(pdftex.def)             Requested size: 398.91429pt x 369.88582pt.
-) (modelo_dissertacao.bbl (modelo_dissertacao.brf)
+Package pdftex.def Info: ./Figuras/class_diagram.png  used on input line 118.
+(pdftex.def)             Requested size: 447.80968pt x 426.79134pt.
+\openout4 = `modelo_dissertacao.mw'.
+
+ [21] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+<./Figuras/usecase_diagram.png, id=236, 889.07156pt x 810.02625pt>
+File: ./Figuras/usecase_diagram.png Graphic file (type png)
+<use ./Figuras/usecase_diagram.png>
+Package pdftex.def Info: ./Figuras/usecase_diagram.png  used on input line 129.
+
+(pdftex.def)             Requested size: 468.45177pt x 426.79134pt.
+
+Overfull \hbox (13.20766pt too wide) in paragraph at lines 129--130
+ [][] 
+ []
+
+\openout4 = `modelo_dissertacao.mw'.
+
+[22 <./Figuras/class_diagram.png>] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+)
+(modelo_dissertacao.bbl (modelo_dissertacao.brf)
 \tf@brf=\write26
 \openout4 = `modelo_dissertacao.brf'.
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [26] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
-[27] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
- [28] (modelo_dissertacao.mw)
-\openout4 = `modelo_dissertacao.mw'.
-
-\openout4 = `modelo_dissertacao.mw'.
-
- [29 <./Figuras/class_diagram.png>] (modelo_dissertacao.mw)
+ [23 <./Figuras/usecase_diagram.png>] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 
@@ -2219,15 +2214,51 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 bibitemlist
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []\T1/phv/m/n/12 (+20) MICROSON. Saiba mais so-bre a ga-gueira. \T1/phv/b/n/12 
 Como fun-ci-ona o Spe-e-chE-asy?\T1/phv/m/n/12 (+20) ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/phv/m/n/12 (+20) 2015. Dis-po-ní-vel em: [][]$<[]http : / / www . microsom 
 . com . br / saiba-[]mais-[]sobre-[]gagueira /
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 65--65
+[]\T1/phv/m/n/12 (+20) RIBEIRO, Le-an-dro. O que é uml e di-a-gra-mas de caso d
+e uso: In-tro-du-ção
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/phv/m/n/12 (+20) prá-tica à uml. \T1/phv/b/n/12 Dev-me-dia\T1/phv/m/n/12 (+
+20) , 2012. Dis-po-ní-vel em: [][]$<[]https : / / www . devmedia . com . br /
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 65--65
+\T1/phv/m/n/12 (+20) o-[]que-[]e-[]uml-[]e-[]diagramas-[]de-[]caso-[]de-[]uso-[
+]introducao-[]pratica-[]a-[]uml / 23408>[]$[][].  Ci-tado na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/phv/m/n/12 (+20) TYBEL, Dou-glas. Ori-en-ta-ções bá-si-cas na ela-bo-ra-ç
+ão de um di-a-grama de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T1/phv/m/n/12 (+20) clas-ses. \T1/phv/b/n/12 Dev-me-dia\T1/phv/m/n/12 (+20) , 
+2017. Dis-po-ní-vel em: [][]$<[]https : / / www . devmedia . com . br /
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 73--73
+\T1/phv/m/n/12 (+20) orientacoes-[]basicas-[]na-[]elaboracao-[]de-[]um-[]diagra
+ma-[]de-[]classes / 37224>[]$[][].  Ci-tado na pá-
  []
 
 )
@@ -2236,7 +2267,7 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [30
+ [24
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2244,14 +2275,14 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
  (modelo_dissertacao.gls)
 \openout4 = `modelo_dissertacao.mw'.
 
- [31
+ [25
 
 
 ]
 (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 230.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 225.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -2261,14 +2292,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \openout4 = `modelo_dissertacao.mw'.
 
- [32
+ [26
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [33
+ [27
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2278,7 +2309,7 @@ rtacao.ind)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [34
+ [28
 
 ]
 (modelo_dissertacao.mw)
@@ -2323,26 +2354,11 @@ AED: lastpage setting LastPage
 \tf@qdr=\write31
 \openout4 = `modelo_dissertacao.qdr'.
 
-\tf@grf=\write32
-\openout4 = `modelo_dissertacao.grf'.
-
-\tf@ftg=\write33
-\openout4 = `modelo_dissertacao.ftg'.
-
-\tf@flx=\write34
-\openout4 = `modelo_dissertacao.flx'.
-
-\tf@los=\write35
-\openout4 = `modelo_dissertacao.los'.
-
-\tf@loa=\write36
-\openout4 = `modelo_dissertacao.loa'.
-
-\tf@toc=\write37
+\tf@toc=\write32
 \openout4 = `modelo_dissertacao.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
 (modelo_dissertacao.aux
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -2653,18 +2669,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
 
 \openout4 = `modelo_dissertacao.mw'.
 
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 250.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 250.
 \openout4 = `modelo_dissertacao.brf'.
 
 Package rerunfilecheck Info: File `modelo_dissertacao.brf' has not changed.
-(rerunfilecheck)             Checksum: 1051BA9E12AA590FC0708687C63E2063;416.
+(rerunfilecheck)             Checksum: 3915210F727DE06D5BAF5D543A569545;614.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
 \openout4 = `modelo_dissertacao.abreviax'.
 
 \openout4 = `modelo_dissertacao.acronx'.
@@ -2685,35 +2705,25 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
 
 \openout4 = `modelo_dissertacao.qdr'.
 
-\openout4 = `modelo_dissertacao.grf'.
-
-\openout4 = `modelo_dissertacao.ftg'.
-
-\openout4 = `modelo_dissertacao.flx'.
-
-\openout4 = `modelo_dissertacao.los'.
-
-\openout4 = `modelo_dissertacao.loa'.
-
 \openout4 = `modelo_dissertacao.toc'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34627 strings out of 492976
- 596083 string characters out of 3135994
- 936731 words of memory out of 3000000
- 37585 multiletter control sequences out of 15000+200000
- 568313 words of font info for 161 fonts, out of 3000000 for 9000
+ 35140 strings out of 492976
+ 603311 string characters out of 3135994
+ 939367 words of memory out of 3000000
+ 38142 multiletter control sequences out of 15000+200000
+ 568187 words of font info for 161 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,17n,102p,10398b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,17n,102p,10398b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
 r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on modelo_dissertacao.pdf (35 pages, 506087 bytes).
+Output written on modelo_dissertacao.pdf (29 pages, 623212 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 125 named destinations out of 1000 (max. 500000)
- 20813 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 447 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
+ 20778 words of extra memory for PDF output out of 24883 (max. 10000000)
 

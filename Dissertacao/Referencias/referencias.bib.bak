@@ -70,7 +70,7 @@
 }
 
 @Article{Artefact2012,
-  author  = {Artefact LCC Medicina},
+  author  = {Artefact LCC},
   title   = {DAF Assistant},
   journal = {Google Play},
   year    = {2012},
@@ -91,6 +91,38 @@
   journal = {At\'e o momento.},
   year    = {2016},
   url     = {http://www.ateomomento.com.br/o-que-e-um-requisito-nao-funcional/},
+}
+
+@Article{Tybel2017,
+  author  = {Douglas Tybel},
+  title   = {Orienta\c{c}\~oes b\'asicas na elabora\c{c}\~ao de um diagrama de classes},
+  journal = {Devmedia},
+  year    = {2017},
+  url     = {https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224},
+}
+
+@Article{Confessor2009,
+  author  = {Henrique Confessor},
+  title   = {Software Mais Flu\^encia Win DAF/FAF Software},
+  journal = {Abra Gagueira},
+  year    = {2009},
+  url     = {http://www.abragagueira.org.br/mais_fluencia.asp},
+}
+
+@Article{Age2017,
+  author  = {Information Age},
+  title   = {Terapia para a Gagueira - FAA},
+  journal = {Google Play},
+  year    = {2017},
+  url     = {https://play.google.com/store/apps/details?id=delayed.auditory.feedback.stuttering.therapy.daf},
+}
+
+@Article{Ribeiro2012,
+  author  = {Leandro Ribeiro},
+  title   = {O que \'e UML e Diagramas de Caso de Uso: Introdu\c{c}\~ao Pr\'atica \`a UML},
+  journal = {Devmedia},
+  year    = {2012},
+  url     = {https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

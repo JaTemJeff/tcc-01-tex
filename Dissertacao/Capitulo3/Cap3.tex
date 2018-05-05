@@ -59,10 +59,10 @@ Nesta se\c{c}\~ao apresenta-se os requisitos do sistema, divididos em:
 	
 \end{itemize}
 
-\begin{quadro}[!htb]
+\begin{quadro}[H]
 	\caption{Requisitos Funcionais}\label{quad:reqfuncionais}
 	\centering
-	\begin{tabular}{|p{1.0cm}|p{8.5cm}|p{2.0cm}|p{2.5cm}|}
+	\begin{tabular}{|p{1.0cm}|p{8.0cm}|p{2.0cm}|p{2.5cm}|}
 		\hline
 		\textbf{Id} & \textbf{Descri\c{c}\~ao} & \textbf{Prioridade} & \textbf{Requisitos Relacionados}\\
 		\hline
@@ -84,11 +84,11 @@ Nesta se\c{c}\~ao apresenta-se os requisitos do sistema, divididos em:
 		\hline
 		RF09 & O aplicativo deve permitir modos personalizados, como a cria\c{c}\~ao de: modo casa, modo apresenta\c{c}\~ao, modo tutorial, entre outros. Onde cada modo possui prefer\^encias pr\'e-definidas. & Desej\'avel & RF01-RF03\\
 		\hline	
-	\end{tabular}
-	\fonte{Fonte Modelo.}	
+	\end{tabular}	
 \end{quadro}
 
-\begin{quadro}[!htb]
+
+\begin{quadro}[H]
 	\caption{Requisitos N\~ao-Funcionais}\label{quad:reqnaofuncionais}
 	\centering
 	\begin{tabular}{|p{1.0cm}|p{5.0cm}|p{2.5cm}|p{2.0cm}|p{2.5cm}|}
@@ -104,22 +104,38 @@ Nesta se\c{c}\~ao apresenta-se os requisitos do sistema, divididos em:
 		RNF04 & A interface do aplicativo deve ser simples, com no m\'aximo 5 bot\~oes, ou controladores (Aumentar ou diminuir a frequ\^encia e o \textit{delay}, bot\~ao iniciar/desligar, e op\c{c}\~ao de configura\c{c}\~oes). & Usabilidade & Desej\'avel & RNF02\\
 		\hline
 	\end{tabular}
-	\fonte{Fonte Modelo.}
 \end{quadro}
+
 
 \subsection{Diagrama de Classes}
 
-\begin{figure}[!htb]
+Apresenta-se o diagrama de classes, uma representa\c{c}\~ao da estrutura e rela\c{c}\~oes das classes que servem de modelo para objetos \cite{Tybel2017}.
+
+\begin{figure}[H]
 	\centering
 	%\captionsetup{width=0.97\textwidth}
-	\caption[DC01]{Diagrama de Classes. \label{fig:diagramadeclasses}}
-	\includegraphics[height=13cm]{./Figuras/class_diagram.png}% <- formatos PNG, JPG e PDF
-	\fonte{Fonte Modelo.}
+	\caption[Diagrama de Classes]{Diagrama de Classes. \label{fig:diagramadeclasses}}
+	\includegraphics[height=15cm]{./Figuras/class_diagram.png}% <- formatos PNG, JPG e PDF
 \end{figure}
+
+\subsection{Diagrama de Casos de Uso}
+
+Apresenta-se o diagrama de casos de uso, documenta o que o sistema faz do ponto de vista do usu\'ario, ou seja, descreve as principais funcionalidades do sistema e a intera\c{c}\~ao dessas funcionalidades com os usu\'arios do mesmo sistema \cite{Ribeiro2012}.
+
+\begin{figure}[H]
+	\centering
+	%\captionsetup{width=0.97\textwidth}
+	\caption[Diagrama de Casos de Uso]{Diagrama de Casos de Uso. \label{fig:diagramadecasosdeuso}}
+	\includegraphics[height=15cm]{./Figuras/usecase_diagram.png}% <- formatos PNG, JPG e PDF
+\end{figure}
+
+
+
+\subsection{Diagrama de Atividades}
 
 \section{Cronograma}
 
-\begin{table}[!htb]
+\begin{table}[H]
 	 \caption{Cronograma de atividades}
 	 \label{tab:cronograma}
 	 \begin{center}
@@ -136,6 +152,5 @@ Nesta se\c{c}\~ao apresenta-se os requisitos do sistema, divididos em:
 			    \hline
 			  \end{tabular}
 		 \vspace{8pt} %%%% Deve ser acrescentado para que haja espaço entre o final da tabela e a fonte.
-		  \fonte{Fonte Modelo.}
 		 \end{center}
 \end{table}
