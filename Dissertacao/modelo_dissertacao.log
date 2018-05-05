@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  1 MAY 2018 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  5 MAY 2018 12:50
 entering extended mode
 **./modelo_dissertacao.tex
 (modelo_dissertacao.tex
@@ -2119,22 +2119,10 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
 
 \openout4 = `modelo_dissertacao.mw'.
 
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 30.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.99994pt on input line 30.
-
-Overfull \hbox (25.68965pt too wide) in paragraph at lines 33--46
- [] 
- []
-
-) (modelo_dissertacao.bbl (modelo_dissertacao.brf)
-\tf@brf=\write26
-\openout4 = `modelo_dissertacao.brf'.
-
 \openout4 = `modelo_dissertacao.mw'.
 
- [25
+
+[25
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2151,9 +2139,67 @@ Overfull \hbox (25.68965pt too wide) in paragraph at lines 33--46
 
 \openout4 = `modelo_dissertacao.mw'.
 
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 63.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+[]|\T1/phv/b/n/12 Requisitos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]|\T1/phv/b/n/12 Requisitos
+ []
+
+
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 98--98
+[]|\T1/phv/m/n/12 (-20) RNF01| 
+ []
+
+
+Overfull \hbox (4.74344pt too wide) in paragraph at lines 98--98
+[]|\T1/phv/m/n/12 (-20) Compatibilidade| 
+ []
+
+
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 100--100
+[]|\T1/phv/m/n/12 (-20) RNF02| 
+ []
+
+
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 102--102
+[]|\T1/phv/m/n/12 (-20) RNF03| 
+ []
+
+
+Overfull \hbox (1.21904pt too wide) in paragraph at lines 102--102
+[]|\T1/phv/m/n/12 (-20) Implementação| 
+ []
+
+
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 104--104
+[]|\T1/phv/m/n/12 (-20) RNF04| 
+ []
+
+) (modelo_dissertacao.bbl (modelo_dissertacao.brf)
+\tf@brf=\write26
+\openout4 = `modelo_dissertacao.brf'.
+
 \openout4 = `modelo_dissertacao.mw'.
 
-[26] (modelo_dissertacao.mw)
+ [26] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+[27] (modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+ [28] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 
@@ -2163,13 +2209,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 bibitemlist
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []\T1/phv/m/n/12 (+20) MICROSON. Saiba mais so-bre a ga-gueira. \T1/phv/b/n/12 
 Como fun-ci-ona o Spe-e-chE-asy?\T1/phv/m/n/12 (+20) ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 \T1/phv/m/n/12 (+20) 2015. Dis-po-ní-vel em: [][]$<[]http : / / www . microsom 
 . com . br / saiba-[]mais-[]sobre-[]gagueira /
  []
@@ -2180,7 +2226,7 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [27
+ [29
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2188,7 +2234,7 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
  (modelo_dissertacao.gls)
 \openout4 = `modelo_dissertacao.mw'.
 
- [28
+ [30
 
 
 ]
@@ -2205,14 +2251,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \openout4 = `modelo_dissertacao.mw'.
 
- [29
+ [31
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [30
+ [32
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2222,7 +2268,7 @@ rtacao.ind)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [31
+ [33
 
 ]
 (modelo_dissertacao.mw)
@@ -2553,13 +2599,49 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
 
 \openout4 = `modelo_dissertacao.mw'.
 
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
 \openout4 = `modelo_dissertacao.brf'.
 
 Package rerunfilecheck Info: File `modelo_dissertacao.brf' has not changed.
-(rerunfilecheck)             Checksum: 63A08A611178566251AF0792ABB89D6D;265.
+(rerunfilecheck)             Checksum: 1051BA9E12AA590FC0708687C63E2063;416.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -2599,11 +2681,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
 
  ) 
 Here is how much of TeX's memory you used:
- 34544 strings out of 492976
- 594667 string characters out of 3135994
- 923127 words of memory out of 3000000
- 37545 multiletter control sequences out of 15000+200000
- 566683 words of font info for 145 fonts, out of 3000000 for 9000
+ 34614 strings out of 492976
+ 595752 string characters out of 3135994
+ 936680 words of memory out of 3000000
+ 37578 multiletter control sequences out of 15000+200000
+ 568313 words of font info for 161 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,17n,102p,10398b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
@@ -2611,9 +2693,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
 w/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
 r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on modelo_dissertacao.pdf (32 pages, 450173 bytes).
+Output written on modelo_dissertacao.pdf (34 pages, 464504 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 20792 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 473 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
+ 20808 words of extra memory for PDF output out of 24883 (max. 10000000)
 

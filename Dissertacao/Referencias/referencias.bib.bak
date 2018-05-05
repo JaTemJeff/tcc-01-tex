@@ -77,4 +77,20 @@
   url     = {https://play.google.com/store/apps/details?id=com.artefactsoft.daf&hl=pt},
 }
 
+@Article{Udacity2017,
+  author  = {Udacity},
+  title   = {Metodologia Scrum e Agile. Oque s\~ao e como aplic\'a-las?},
+  journal = {Web Mobile Marketing Digital},
+  year    = {2017},
+  url     = {https://br.udacity.com/blog/post/metodologia-scrum-agile},
+}
+
+@Article{Ventura2016,
+  author  = {Pl\'inio Ventura},
+  title   = {O que \'e um Requisito Não-Funcional},
+  journal = {At\'e o momento.},
+  year    = {2016},
+  url     = {http://www.ateomomento.com.br/o-que-e-um-requisito-nao-funcional/},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

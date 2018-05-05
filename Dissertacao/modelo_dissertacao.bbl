@@ -21,6 +21,13 @@ Dispon{\'\i}vel em:
 \textbf{PLOS Biology}, Public Library of Science, v.~2, n.~2, 02 2004.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1371/journal.pbio.0020046}.}
 
+\bibitem[Medicina 2012]{Artefact2012}
+\abntrefinfo{Medicina}{MEDICINA}{2012}
+{MEDICINA, Artefact~LCC. Daf assistant.
+\textbf{Google Play}, 2012.
+Dispon{\'\i}vel em:
+  \url{https://play.google.com/store/apps/details?id=com.artefactsoft.daf&hl=pt}.}
+
 \bibitem[Merlo 2013]{Merlo2013}
 \abntrefinfo{Merlo}{MERLO}{2013}
 {MERLO, Sandra. Caracteriza\c{c}\~ao da gagueira.
@@ -35,10 +42,24 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \url{http://www.microsom.com.br/saiba-mais-sobre-gagueira/saiba-mais-sobre-gagueira-como-funciona/}.}
 
+\bibitem[Udacity 2017]{Udacity2017}
+\abntrefinfo{Udacity}{UDACITY}{2017}
+{UDACITY. Metodologia scrum e agile. oque s\~ao e como aplic\'a-las?
+\textbf{Web Mobile Marketing Digital}, 2017.
+Dispon{\'\i}vel em:
+  \url{https://br.udacity.com/blog/post/metodologia-scrum-agile}.}
+
 \bibitem[Udemo 2008]{Udemo2008}
 \abntrefinfo{Udemo}{UDEMO}{2008}
 {UDEMO. Efeito coro.
 \textbf{Folha de S\~ao Paulo}, 2008.
 Dispon{\'\i}vel em: \url{http://www.udemo.org.br/Leituras/Leituras\_161.htm}.}
+
+\bibitem[Ventura 2016]{Ventura2016}
+\abntrefinfo{Ventura}{VENTURA}{2016}
+{VENTURA, Pl\'inio. O que \'e um requisito não-funcional.
+\textbf{At\'e o momento.}, 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.ateomomento.com.br/o-que-e-um-requisito-nao-funcional/}.}
 
 \end{thebibliography}

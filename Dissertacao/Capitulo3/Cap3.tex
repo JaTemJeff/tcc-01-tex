@@ -13,6 +13,8 @@ A finalidade dessas configura\c{c}\~oes que devem ser adaptadas para cada indiv\
 	\item Android Studio: utiliza-se como ambiente de desenvolvimento 		(\sigla{IDE}{Ambiente de Desenvolvimento Integrado}).
 
 	\item Github: utiliza-se como reposit\'orio de armazenamento e controle de vers\~oes.
+	
+	\item Google Drive: utiliza-se como gerenciador de arquivos de texto, e planilhas.
 
 	\item UML: utiliza-se como linguagem-padr\~ao para a elabora\c{c}\~ao da estrutura de projetos de \textit{software}.
 
@@ -22,7 +24,90 @@ A finalidade dessas configura\c{c}\~oes que devem ser adaptadas para cada indiv\
 
 \section{M\'etodo}
 
-\section{An'alise e Desenvolvimento}
+Uma alternativa para atender clientes e projetos de forma din\^amica, flex\'ivel e com produtividade elevada \'e a metodologia \textit{Agile}, ou \'agil em portugu\^es, que tem se consolidado ao longo dos \'ultimos anos com a utiliza\c{c}\~ao de uma abordagem de planejamento iterativa. O \textit{Scrum} \'e um \textit{framework} muito utilizado entre as metodologias \'ageis, especialmente pelo formato din\^amico como as etapas dos projetos s\~ao desenvolvidas \cite{Udacity2017}. 
+
+Para o desenvolvimento do aplicativo descrito neste documento, utiliza-se uma metodologia incremental adaptada e baseada no \textit{Scrum}, seguindo alguns de seus conceitos mais importantes, como: 
+
+\begin{itemize}
+	
+	\item \textit{Sprint}: s\~ao itera\c{c}\~oes, ciclos de desenvolvimento que come\c{c}am numa reuni\~ao de planejamento (\textit{Sprint Planning}) e terminam com a revis\~ao (\textit{Sprint Review}) e a retrospectiva (\textit{Sprint Retrospective}).
+	
+	\item \textit{Product Owner}: \'e o respons\'avel por definir prioridades a serem desenvolvidas em cada \textit{sprint} e fazer a intermedia\c{c}\~ao entre equipe de neg\'ocios e equipe de \textit{scrum}.
+	
+	\item \textit{Scrum Master}: respons\'avel por resolver impedimentos que possam prejudicar a equipe \textit{scrum}, e assegurar que todos sigam a metodologia proposta. 
+	
+	\item \textit{Sprint Planning}: reuni\~ao para planejar quais itens do \textit{backlog} do produto ser\~ao priorizados em determinada \textit{sprint}, que abrange determinado per\'iodo(1 at\'e 4 semanas).
+	
+	\item  \textit{Sprint Meeting Review}: Reuni\~ao de revis\~ao da \textit{sprint}, discutindo tudo que foi desenvolvido naquele ciclo. 
+	
+	\item \textit{Sprint Retrospective}: realizada ap\'os a reuni\~ao de revis\~ao e antes da reuni\~ao de planejamento, visa estabelecer poss\'iveis melhorias. 
+		
+\end{itemize}
+
+
+\section{An\'alise e Desenvolvimento}
+
+
+\subsection{Requisitos}
+
+Nesta se\c{c}\~ao apresenta-se os requisitos do sistema, divididos em:
+\begin{itemize}
+	
+	\item  Requisitos Funcionais (RF): apresentam as funcionalidades do sistema, ou seja, define oque o sistema far\'a. 
+	
+	\item Requisitos N\~ao-Funcionais (RNF): apresentam os atributos de qualidade para o sistema, ou seja, como o sistema far\'a determinada atividade \cite{Ventura2016}. 
+	
+\end{itemize}
+
+\begin{quadro}[!htb]
+	\caption{Requisitos Funcionais}\label{quad:reqfuncionais}
+	\centering
+	\begin{tabular}{|p{1.0cm}|p{8.5cm}|p{2.0cm}|p{2.5cm}|}
+		\hline
+		\textbf{Id} & \textbf{Descri\c{c}\~ao} & \textbf{Prioridade} & \textbf{Requisitos Relacionados}\\
+		\hline
+		RF01 & O aplicativo deve permitir ao usu\'ario editar as prefer\^encias de utiliza\c{c}\~ao do aplicativo, como tipo de fone utilizado, altura do volume, frequ\^encia e delay. & Essencial & RF02 - RF04\\
+		\hline
+		RF02 & O aplicativo deve permitir ao usu\'ario iniciar e interromper a simula\c{c}\~ao do efeito coro. & Essencial & N/A \\
+		\hline
+		RF03 & O aplicativo deve manter salva as prefer\^encias de utiliza\c{c}\~ao. & Importante & RF01 - RF04\\
+		\hline
+		RF04 & O aplicativo deve fornecer a op\c{c}\~ao de um tutorial em seu primeiro uso. & Importante & N/A\\
+		\hline
+		RF05 & O aplicativo deve permitir a utiliza\c{c}\~ao de fone \textit{bluetooth}. & Importante & RF01 - RF002\\
+		\hline
+		RF06 & O aplicativo deve permitir ao usu\'ario uma op\c{c}\~ao de n\~ao receber liga\c{c}\~oes, enquanto o aplicativo estiver executando a simula\c{c}\~ao do efeito coro. & Desej\'avel & RF01\\
+		\hline
+		RF07 & O aplicativo deve conter uma tela de ajuda, onde existir\'a informa\c{c}\~oes sobre a utiliza\c{c}\~ao do aplicativo. & Desej\'avel & RF03\\
+		\hline
+		RF08 & O aplicativo deve permitir visualizar o registro de vezes em que o usu\'ario utilizou o aplicativo. & Desej\'avel & RF02\\
+		\hline
+		RF09 & O aplicativo deve permitir modos personalizados, como a cria\c{c}\~ao de: modo casa, modo apresenta\c{c}\~ao, modo tutorial, entre outros. Onde cada modo possui prefer\^encias pr\'e-definidas. & Desej\'avel & RF01-RF03\\
+		\hline	
+	\end{tabular}
+	\fonte{Fonte Modelo.}	
+\end{quadro}
+
+\begin{quadro}[!htb]
+	\caption{Requisitos N\~ao-Funcionais}\label{quad:reqnaofuncionais}
+	\centering
+	\begin{tabular}{|p{1.0cm}|p{5.0cm}|p{2.5cm}|p{2.0cm}|p{2.5cm}|}
+		\hline
+		\textbf{Id} & \textbf{Descri\c{c}\~ao}& \textbf{Categoria} & \textbf{Prioridade} & \textbf{Requisitos Relacionados}\\
+		\hline
+		RNF01 & O aplicativo deve ser desenvolvido para a plataforma Android. & Compatibilidade & Essencial & RFN03\\
+		\hline
+		RNF02 & O usu\'ario do aplicativo deve ser capaz de usufruir das suas funcionalidades com no m\'aximo 1 minuto de utiliza\c{c}\~ao. & Usabilidade & Importante & RNF04 \\
+		\hline
+		RNF03 & O aplicativo deve ser implementado na linguagem de programa\c{c}\~ao JAVA. & Implementa\c{c}\~ao  & Importante & RNF01\\
+		\hline
+		RNF04 & A interface do aplicativo deve ser simples, com no m\'aximo 5 bot\~oes, ou controladores (Aumentar ou diminuir a frequ\^encia e o \textit{delay}, bot\~ao iniciar/desligar, e op\c{c}\~ao de configura\c{c}\~oes). & Usabilidade & Desej\'avel & RNF02\\
+		\hline
+	\end{tabular}
+	\fonte{Fonte Modelo.}
+\end{quadro}
+
+\subsection{}
 
 \section{Cronograma}
 
@@ -30,16 +115,18 @@ A finalidade dessas configura\c{c}\~oes que devem ser adaptadas para cada indiv\
 	 \caption{Cronograma de atividades}
 	 \label{tab:cronograma}
 	 \begin{center}
-		  \begin{tabular}{l||c|c|c|c|c|c|c|c}
+		  \begin{tabular}{|l||c|c|c|c|c|c|c|c|c|c|}
 			    \hline
-			    \multicolumn{9}{c}{2018} \\ \hline \hline
-			    \multicolumn{1}{c||}{Fase} & M\^es 1     & M\^es 2     & M\^es 3     & M\^es 4   & M\^es 5 & M\^es 6 & M\^es 7 & M\^es 8\\ \hline
-			    Levantamento de requisitos    & $\bullet$ &           &          &         &  &  &  & \\
-			    An\'alise de requisitos    & $\bullet$          &  & &         &  &  &  &\\
-			    Projeto   &           &  $\bullet$         & & &  &  &  &\\
-			    Implementa\c{c}\~ao    &           &          &   $\bullet$       &  $\bullet$        &  $\bullet$  & $\bullet$ &  &\\
-			    Testes    &           &           & &$\bullet$ & $\bullet$ & $\bullet$ &$\bullet$  &\\
-			    Implanta\c{c}\~ao    &           &           & & &  &  &  &$\bullet$\\
+			    \multicolumn{11}{c}{2018} \\ \hline \hline
+			    \multicolumn{11}{c}{M\^es} \\ \hline \hline
+			    \multicolumn{1}{c||}{Fase} 	&1     			&2     			&3     			&4   			&5 				&6 			&7 			&8			&9				&10\\ \hline
+			    Levantamento de requisitos 	& $\bullet$  	&           	&          		&         		&  				&  			&  			&			&	 			&\\
+			    An\'alise de requisitos    	& $\bullet$     &  				& 				&         		&  				&  			&  			& 			&				&\\
+			    Projeto   				   	&           	&$\bullet$    	& 				& 				&  				&  			&  			& 			&				&\\
+			    Implementa\c{c}\~ao   	   	&           	&          		&$\bullet$   	&$\bullet$    	&$\bullet$		&$\bullet$ 	&$\bullet$ 	&			&				&\\
+			    Testes    				   	&           	&           	& 				&$\bullet$ 		&$\bullet$ 		&$\bullet$ 	&$\bullet$  &$\bullet$	&				&\\
+			    Implanta\c{c}\~ao    	   	&           	&           	&				& 				&  				&  			&  			&		 	&$\bullet$		&\\
+			    Divulga\c{c}\~ao 		   	& 				& 				&				&				&				& 			&			& 			& 				&$\bullet$\\
 			    \hline
 			  \end{tabular}
 		 \vspace{8pt} %%%% Deve ser acrescentado para que haja espaço entre o final da tabela e a fonte.
