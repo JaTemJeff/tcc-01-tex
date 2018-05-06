@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  6 MAY 2018 10:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  6 MAY 2018 11:10
 entering extended mode
 **./modelo_dissertacao.tex
 (modelo_dissertacao.tex
@@ -2058,16 +2058,23 @@ File: omsphv.fd
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+\openout4 = `modelo_dissertacao.mw'.
+
+ [15]
+(modelo_dissertacao.mw)
+\openout4 = `modelo_dissertacao.mw'.
+
 ) (capitulo2/cap2.tex
 \openout4 = `modelo_dissertacao.mw'.
 
-[15] (modelo_dissertacao.mw)
+ [16] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-) (capitulo3/cap3.tex
+)
+(capitulo3/cap3.tex
 \openout4 = `modelo_dissertacao.mw'.
 
- [16
+ [17
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2082,8 +2089,7 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
 
 \openout4 = `modelo_dissertacao.mw'.
 
-
-[17
+ [18
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2111,7 +2117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
 \openout4 = `modelo_dissertacao.mw'.
 
-[18] (modelo_dissertacao.mw)
+[19] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 
@@ -2151,20 +2157,20 @@ Overfull \hbox (5.06636pt too wide) in paragraph at lines 104--104
 
 \openout4 = `modelo_dissertacao.mw'.
 
-[19] (modelo_dissertacao.mw)
+[20] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-<./Figuras/class_diagram.png, id=215, 641.39626pt x 611.28375pt>
+<./Figuras/class_diagram.png, id=223, 641.39626pt x 611.28375pt>
 File: ./Figuras/class_diagram.png Graphic file (type png)
 <use ./Figuras/class_diagram.png>
 Package pdftex.def Info: ./Figuras/class_diagram.png  used on input line 118.
 (pdftex.def)             Requested size: 447.80968pt x 426.79134pt.
 \openout4 = `modelo_dissertacao.mw'.
 
- [20] (modelo_dissertacao.mw)
+ [21] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-<./Figuras/usecase_diagram.png, id=223, 889.07156pt x 810.02625pt>
+<./Figuras/usecase_diagram.png, id=231, 889.07156pt x 810.02625pt>
 File: ./Figuras/usecase_diagram.png Graphic file (type png)
 <use ./Figuras/usecase_diagram.png>
 Package pdftex.def Info: ./Figuras/usecase_diagram.png  used on input line 129.
@@ -2177,10 +2183,10 @@ Overfull \hbox (13.20766pt too wide) in paragraph at lines 129--130
 
 \openout4 = `modelo_dissertacao.mw'.
 
-[21 <./Figuras/class_diagram.png>] (modelo_dissertacao.mw)
+[22 <./Figuras/class_diagram.png>] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
-<./Figuras/activity_diagram.png, id=232, 909.3975pt x 745.28438pt>
+<./Figuras/activity_diagram.png, id=240, 909.3975pt x 745.28438pt>
 File: ./Figuras/activity_diagram.png Graphic file (type png)
 <use ./Figuras/activity_diagram.png>
 Package pdftex.def Info: ./Figuras/activity_diagram.png  used on input line 139
@@ -2188,7 +2194,7 @@ Package pdftex.def Info: ./Figuras/activity_diagram.png  used on input line 139
 (pdftex.def)             Requested size: 451.3257pt x 369.88582pt.
 \openout4 = `modelo_dissertacao.mw'.
 
- [22 <./Figuras/usecase_diagram.png>] (modelo_dissertacao.mw)
+ [23 <./Figuras/usecase_diagram.png>] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 ) (modelo_dissertacao.bbl
@@ -2198,7 +2204,7 @@ Package pdftex.def Info: ./Figuras/activity_diagram.png  used on input line 139
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [23 <./Figuras/activity_diagram.png>]
+ [24 <./Figuras/activity_diagram.png>]
 (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -2262,7 +2268,7 @@ ssertacao.glg -o modelo_dissertacao.gls)...executed (allowed).
 
 \openout4 = `modelo_dissertacao.mw'.
 
- [24
+ [25
 
 ] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
@@ -2553,13 +2559,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
 
 \openout4 = `modelo_dissertacao.mw'.
 
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
+\openout4 = `modelo_dissertacao.mw'.
+
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 \openout4 = `modelo_dissertacao.brf'.
 
 Package rerunfilecheck Info: File `modelo_dissertacao.brf' has not changed.
-(rerunfilecheck)             Checksum: 294FF7DE1F57FEAF225C63A433EB54F0;671.
+(rerunfilecheck)             Checksum: 880D3318A319C979A3C7EB2BFEBCD084;671.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -2589,11 +2603,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
 
  ) 
 Here is how much of TeX's memory you used:
- 35088 strings out of 492976
- 602469 string characters out of 3135994
+ 35098 strings out of 492976
+ 602633 string characters out of 3135994
  939582 words of memory out of 3000000
- 38117 multiletter control sequences out of 15000+200000
- 567441 words of font info for 157 fonts, out of 3000000 for 9000
+ 38119 multiletter control sequences out of 15000+200000
+ 567566 words of font info for 159 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,17n,102p,10398b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{section*.29} has been referenced but does not exi
@@ -2604,9 +2618,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr
 o8a.pfb>
-Output written on modelo_dissertacao.pdf (25 pages, 712504 bytes).
+Output written on modelo_dissertacao.pdf (26 pages, 715490 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 20239 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 427 PDF objects out of 1000 (max. 8388607)
+ 98 named destinations out of 1000 (max. 500000)
+ 20255 words of extra memory for PDF output out of 20736 (max. 10000000)
 
