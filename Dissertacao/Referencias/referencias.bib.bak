@@ -125,4 +125,12 @@
   url     = {https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408},
 }
 
+@Article{Ventura2016a,
+  author  = {P\'inio Ventura},
+  title   = {Entendendo o Diagrama de Atividades da UML},
+  journal = {At\'e o Momento},
+  year    = {2016},
+  url     = {http://www.ateomomento.com.br/uml-diagrama-de-atividades/},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

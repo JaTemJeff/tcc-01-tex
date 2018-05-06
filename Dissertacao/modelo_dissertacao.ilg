@@ -1,5 +1,12 @@
 This is makeindex, version 2.15 [MiKTeX 2.9.6670 64-bit] (kpathsea + Thai support).
-Scanning style file C:/Program Files/MiKTeX 2.9/makeindex/utfprcptex/estilo-indice.ist.......done (7 attributes redefined, 0 ignored).
-Scanning input file modelo_dissertacao.idx...done (0 entries accepted, 0 rejected).
-Nothing written in modelo_dissertacao.ind.
+Scanning style file C:/Program Files/MiKTeX 2.9/makeindex/utfprcptex/utfpr-siglas.ist.......
+** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/utfprcptex/utfpr-siglas.ist, line = 69):
+   -- Unknown specifier lethead_prefix.
+** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/utfprcptex/utfpr-siglas.ist, line = 70):
+   -- Unknown specifier lethead_suffix.
+** Input style error (file = C:/Program Files/MiKTeX 2.9/makeindex/utfprcptex/utfpr-siglas.ist, line = 71):
+   -- Unknown specifier lethead_flag.
+.....done (12 attributes redefined, 3 ignored).
+Scanning input file modelo_dissertacao.nlo...done (0 entries accepted, 0 rejected).
+Nothing written in modelo_dissertacao.nls.
 Transcript written in modelo_dissertacao.ilg.

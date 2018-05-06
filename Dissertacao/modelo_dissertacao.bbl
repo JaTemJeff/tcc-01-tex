@@ -84,9 +84,16 @@ Dispon{\'\i}vel em:
 \textbf{Folha de S\~ao Paulo}, 2008.
 Dispon{\'\i}vel em: \url{http://www.udemo.org.br/Leituras/Leituras\_161.htm}.}
 
+\bibitem[Ventura 2016]{Ventura2016a}
+\abntrefinfo{Ventura}{VENTURA}{2016a}
+{VENTURA, P\'inio. Entendendo o diagrama de atividades da uml.
+\textbf{At\'e o Momento}, 2016.
+Dispon{\'\i}vel em:
+  \url{http://www.ateomomento.com.br/uml-diagrama-de-atividades/}.}
+
 \bibitem[Ventura 2016]{Ventura2016}
-\abntrefinfo{Ventura}{VENTURA}{2016}
-{VENTURA, Pl\'inio. O que \'e um requisito não-funcional.
+\abntrefinfo{Ventura}{VENTURA}{2016b}
+{VENTURA, Pl\'inio. O que \'e um requisito n\~ao-funcional.
 \textbf{At\'e o momento.}, 2016.
 Dispon{\'\i}vel em:
   \url{http://www.ateomomento.com.br/o-que-e-um-requisito-nao-funcional/}.}

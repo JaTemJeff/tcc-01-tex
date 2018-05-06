@@ -28,7 +28,6 @@
 \usepackage{threeparttable}
 
 
-
 % ---
 % Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
 % ---
@@ -54,9 +53,6 @@
 
 % Para fonte Helvetica (Nimbus Sans) descomente linhas abaixo
 \fontetipo{arial}
-
-
-
 
 %O comando a seguir diz ao Latex para salvar as siglas em um arquivo separado:
 \fazlistasiglas[Lista de Siglas] % Parâmetro opcional é o título da lista.
@@ -172,14 +168,6 @@ This is the english abstract. (maximum of 500 words).
 \textbf{Keywords:} \UTFPRkeywordsdata
 \end{abstract}
 
-%%%%% abstract em frances
-\begin{resume}
-SOBRENOME, Nome. \textbf{Titre Français.} \UTFPRanodefesa. \pageref{LastPage} f. Mémoire de Maîtrise -- Programme d'études Supérieures en Génie Électrique, Université Technologique Fédérale - Paraná. Cornélio Procópio, \UTFPRdatadata.
-
-Il s'agit d'un résumé en français. (maximum de 500 mots).
-
-\textbf{Mots-clés:} mot-clé 1. mot-clé 2. (3 à 5 mots)
-\end{resume}
 
 %%%%%% Lista de Ilustrações conforme ABNT
 \listadeilustracoes
@@ -214,37 +202,5 @@ Il s'agit d'un résumé en français. (maximum de 500 mots).
 
 %% Glossário
 \incluirglossario%% Comente para remover este item
-
-%---------- Apendices (opcionais) ----------
-\apendices
-% Imprime uma página indicando o início dos apêndices
-\partapendices*
-
-\chapter{Nome do Ap\^endice}
-
-Use o comando {\ttfamily \textbackslash apendice} e depois comandos {\ttfamily \textbackslash chapter\{\}}
-para gerar t\'itulos de ap\^en-dices.
-
-\section{Teste de Seção em um Apêndice}
-
-% ---------- Anexos (opcionais) ----------
-\anexos
-% Imprime uma página indicando o início dos anexos
-\partanexos*
-
-
-
-\chapter{Nome do Anexo}
-
-\index{Use} Use o comando {\ttfamily \textbackslash anexo} e depois comandos {\ttfamily \textbackslash chapter\{\}}
-para gerar t\'itulos de anexos.
-
-%---------------------------------------------------------------------
-% INDICE REMISSIVO
-%---------------------------------------------------------------------
-%\onecolindex %% Para indice em uma coluna
-\twocolindex  %% Para indice em duas colunas
-\indiceremissivo
-%---------------------------------------------------------------------
 
 \end{document} 
