@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {3.3.3}Diagrama de Casos de Uso}{22}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}Diagrama de Atividades}{23}{subsection.3.3.4}
 \contentsline {section}{\numberline {3.4}Prot\'otipos de Tela}{24}{section.3.4}
-\contentsline {section}{\numberline {3.5}Cronograma}{24}{section.3.5}
+\contentsline {section}{\numberline {3.5}Cronograma}{27}{section.3.5}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{25}{section*.28}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{28}{section*.31}
