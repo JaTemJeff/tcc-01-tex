@@ -5,6 +5,13 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Ableson 2009]{Ableson2009}
+\abntrefinfo{Ableson}{ABLESON}{2009}
+{ABLESON, Frank. Introdu\c{c}\~ao ao desenvolvimento do android.
+\textbf{IBM Developer Works}, 2009.
+Dispon{\'\i}vel em:
+  \url{https://www.ibm.com/developerworks/br/library/os-android-devel/index.html}.}
+
 \bibitem[Age 2017]{Age2017}
 \abntrefinfo{Age}{AGE}{2017}
 {AGE, Information. Terapia para a gagueira - faa.
@@ -33,6 +40,13 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1371/journal.pbio.0020046}.}
 {CONFESSOR, Henrique. Software mais flu\^encia win daf/faf software.
 \textbf{Abra Gagueira}, 2009.
 Dispon{\'\i}vel em: \url{http://www.abragagueira.org.br/mais\_fluencia.asp}.}
+
+\bibitem[Developers 2018]{Developers2018}
+\abntrefinfo{Developers}{DEVELOPERS}{2018}
+{DEVELOPERS, Android. Arquitetura da plataforma android.
+\textbf{Android Developers}, 2018.
+Dispon{\'\i}vel em:
+  \url{https://developer.android.com/guide/platform/?hl=pt-br}.}
 
 \bibitem[LCC 2012]{Artefact2012}
 \abntrefinfo{LCC}{LCC}{2012}

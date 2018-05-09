@@ -45,7 +45,20 @@ Para o desenvolvimento do aplicativo descrito neste documento, utiliza-se uma me
 \end{itemize}
 
 
+
 \section{An\'alise e Desenvolvimento}
+
+\subsection{Arquitetura}
+Utiliza-se como arquitetura de desenvolvimento, a arquitetura de camadas do software Android, que \'e executado sobre um kernel Linux. Os aplicativos Android s\~ao gravados na linguagem de programa\c{c}\~ao Java e s\~ao executados em uma m\'aquina virtual (VM) \cite{Ableson2009}.
+
+A figura a seguir apresenta a maioria dos componentes da plataforma Android. 
+\begin{figure}[H]
+	\centering
+	%\captionsetup{width=0.97\textwidth}
+	\caption[Camadas do Software Android]{Camadas do Software Android. \label{fig:figurearquitetura}}
+	\includegraphics[height=15cm]{./Figuras/arquitetura_figure.png}% <- formatos PNG, JPG e PDF
+	\fonte{\cite{Developers2018}}
+\end{figure}
 
 
 \subsection{Requisitos}
@@ -96,7 +109,8 @@ A prioridade dos requisitos pode ser classificada em:
 		\hline
 		RF09 & O aplicativo deve permitir modos personalizados, como a cria\c{c}\~ao de: modo casa, modo apresenta\c{c}\~ao, modo tutorial, entre outros. Onde cada modo possui prefer\^encias pr\'e-definidas. & Desej\'avel & RF01-RF03\\
 		\hline	
-	\end{tabular}	
+	\end{tabular}
+	\fonte{O Autor.}	
 \end{quadro}
 
 
@@ -116,6 +130,7 @@ A prioridade dos requisitos pode ser classificada em:
 		RNF04 & A interface do aplicativo deve ser simples, com no m\'aximo 5 bot\~oes, ou controladores (Aumentar ou diminuir a frequ\^encia e o \textit{delay}, bot\~ao iniciar/desligar, e op\c{c}\~ao de configura\c{c}\~oes). & Usabilidade & Desej\'avel & RNF02\\
 		\hline
 	\end{tabular}
+	\fonte{O Autor.}
 \end{quadro}
 
 
@@ -128,6 +143,7 @@ Apresenta-se o diagrama de classes, uma representa\c{c}\~ao da estrutura e rela\
 	%\captionsetup{width=0.97\textwidth}
 	\caption[Diagrama de Classes]{Diagrama de Classes. \label{fig:diagramadeclasses}}
 	\includegraphics[height=15cm]{./Figuras/class_diagram.png}% <- formatos PNG, JPG e PDF
+	\fonte{O Autor.}
 \end{figure}
 
 \subsection{Diagrama de Casos de Uso}
@@ -139,6 +155,7 @@ Apresenta-se o diagrama de casos de uso, documenta o que o sistema faz do ponto 
 	%\captionsetup{width=0.97\textwidth}
 	\caption[Diagrama de Casos de Uso]{Diagrama de Casos de Uso. \label{fig:diagramadecasosdeuso}}
 	\includegraphics[height=15cm]{./Figuras/usecase_diagram.png}% <- formatos PNG, JPG e PDF
+	\fonte{O Autor.}
 \end{figure}
 
 \subsection{Diagrama de Atividades}
@@ -149,6 +166,7 @@ Apresenta-se o diagrama de atividades, com o objetivo de mostrar o fluxo de ativ
 	%\captionsetup{width=0.97\textwidth}
 	\caption[Diagrama de Atividades]{Diagrama de Atividades. \label{fig:diagramadeatividades}}
 	\includegraphics[height=13cm]{./Figuras/activity_diagram.png}% <- formatos PNG, JPG e PDF
+	\fonte{O Autor.}
 \end{figure}
 
 \section{Prot\'otipos de Tela}
@@ -162,6 +180,7 @@ Apresenta-se os prot\'otipos de tela do sistema.
 		%\captionsetup{width=0.97\textwidth}
 		\caption[Prot\'otipo Tela Inicial]{Prot\'otipo Tela Inicial. \label{fig:prototipotelainicial}}
 		\includegraphics[height=13cm]{./Figuras/prototipo_telainicial.jpg}% <- formatos PNG, JPG e PDF
+		\fonte{O Autor.}
 	\end{figure}
 	
 	\item Tela Prefer\^encias: Nesta tela o usu\'ario pode criar, alterar, ou excluir um modo, adicionando o atraso e frequ\^encia desejados, al\'em de selecionar as op\c{c}\~oes de ativar/desativar \textit{headset bluetooth} e notifica\c{c}\~oes;
@@ -170,6 +189,7 @@ Apresenta-se os prot\'otipos de tela do sistema.
 		%\captionsetup{width=0.97\textwidth}
 		\caption[Prot\'otipo Tela Prefer\^encias]{Prot\'otipo Tela Prefer\^encia. \label{fig:prototipotelapreferencias}}
 		\includegraphics[height=13cm]{./Figuras/prototipo_telapreferencias.jpg}% <- formatos PNG, JPG e PDF
+		\fonte{O Autor.}
 	\end{figure}
 
 	\item  Tela Sobre: Neta tela o usu\'ario encontra informa\c{c}\~oes sobre o aplicativo, assim como informa\c{c}\~oes sobre o funcionamento do aplicativo e um tutorial de ajuda. 
@@ -178,6 +198,7 @@ Apresenta-se os prot\'otipos de tela do sistema.
 		%\captionsetup{width=0.97\textwidth}
 		\caption[Prot\'otipo Tela Sobre]{Prot\'otipo Tela Sobre. \label{fig:prototiposobre}}
 		\includegraphics[height=13cm]{./Figuras/prototipo_sobre.jpg}% <- formatos PNG, JPG e PDF
+		\fonte{O Autor.}
 	\end{figure}
 \end{itemize}
 
@@ -191,7 +212,7 @@ Apresenta-se o cronograma, determinando todas as atividades do processo de desen
 	 \begin{center}
 		  \begin{tabular}{|l||c|c|c|c|c|c|c|c|c|c|}
 			    \hline
-			    \multicolumn{1}{|c||}{Fase} 	&1     			&2     			&3     			&4   			&5 				&6 			&7 			&8			&9				&10\\ \hline
+			    \multicolumn{1}{|c||}{Fase} 	&Out     			&Nov     			&Mar     			&Abr   			&Mai 				&Jun 			&Jul 			&Ago			&Set				&Out\\ \hline
 			    Levantamento de requisitos 	& $\bullet$  	&           	&          		&         		&  				&  			&  			&			&	 			&\\
 			    An\'alise de requisitos    	& $\bullet$     &  				& 				&         		&  				&  			&  			& 			&				&\\
 			    Projeto   				   	&           	&$\bullet$    	& 				& 				&  				&  			&  			& 			&				&\\
@@ -202,5 +223,6 @@ Apresenta-se o cronograma, determinando todas as atividades do processo de desen
 			    \hline
 			  \end{tabular}
 		 \vspace{8pt} %%%% Deve ser acrescentado para que haja espaço entre o final da tabela e a fonte.
+		  \fonte{O Autor.}
 		 \end{center}
 \end{table}
