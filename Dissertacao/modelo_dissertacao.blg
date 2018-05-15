@@ -5,10 +5,13 @@ Database file #1: abntex2-options.bib
 Database file #2: referencias/referencias.bib
 A bad cross reference---entry "Andrade2008"
 refers to entry "10.1590/S1516-80342008000400018", which doesn't exist
+A bad cross reference---entry "PICOLOTO2017"
+refers to entry "10.1590/2317-1782/201720170038", which doesn't exist
 Warning--I didn't find a database entry for "10.1590/S1516-80342008000400018"
+Warning--I didn't find a database entry for "10.1590/2317-1782/201720170038"
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-(There was 1 error message)
+(There were 2 error messages)

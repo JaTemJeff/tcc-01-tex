@@ -15,6 +15,20 @@
   url       = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1516-80342008000400018&nrm=iso},
 }
 
+@Article{PICOLOTO2017,
+  author    = {Picoloto, Luana Altran AND Cardoso, Ana Cl\~A!`udia Vieira AND Cerqueira, Amanda Venuti AND Oliveira, Cristiane Mo\~A\So Canhetti de},
+  title     = {{Efeito da retroalimenta\~A\S\~A\poundso auditiva atrasada na gagueira com e sem altera\~A\S\~A\poundso do processamento auditivo central}},
+  journal   = {{CoDAS}},
+  year      = {2017},
+  volume    = {29},
+  month     = {00},
+  issn      = {2317-1782},
+  crossref  = {10.1590/2317-1782/201720170038},
+  language  = {pt},
+  publisher = {scielo},
+  url       = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2317-17822017000600307&nrm=iso},
+}
+
 @Article{Buechel2004,
   author    = {Buchel, Christian AND Sommer, Martin},
   title     = {What Causes Stuttering?},
@@ -135,7 +149,7 @@
 
 @Article{Ableson2009,
   author  = {Frank Ableson},
-  title   = {Introdução ao Desenvolvimento do Android},
+  title   = {Introdu\c{c}\~ao ao Desenvolvimento do Android},
   journal = {IBM Developer Works},
   year    = {2009},
   url     = {https://www.ibm.com/developerworks/br/library/os-android-devel/index.html},
