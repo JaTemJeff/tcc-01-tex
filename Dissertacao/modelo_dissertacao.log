@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  14 MAY 2018 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  14 MAY 2018 21:13
 entering extended mode
 **./modelo_dissertacao.tex
 (modelo_dissertacao.tex
@@ -2792,11 +2792,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
 
  ) 
 Here is how much of TeX's memory you used:
- 35218 strings out of 492976
- 606015 string characters out of 3135994
+ 35215 strings out of 492976
+ 605988 string characters out of 3135994
  941343 words of memory out of 3000000
  38187 multiletter control sequences out of 15000+200000
- 568569 words of font info for 169 fonts, out of 3000000 for 9000
+ 568444 words of font info for 167 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,17n,102p,10398b,578s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{section*.35} has been referenced but does not exi
@@ -2807,7 +2807,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr
 o8a.pfb>
-Output written on modelo_dissertacao.pdf (34 pages, 1368529 bytes).
+Output written on modelo_dissertacao.pdf (34 pages, 1368555 bytes).
 PDF statistics:
  519 PDF objects out of 1000 (max. 8388607)
  114 named destinations out of 1000 (max. 500000)
