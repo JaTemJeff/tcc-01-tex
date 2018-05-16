@@ -124,7 +124,41 @@
 %%%%                geração da ficha pela biblioteca.
 %%%%    - pdf: informar o nome do arquivo pdf com a ficha fornecinada
 %%%%           pela bibliteca.
-\folhaderosto[Fichacatalografica]
+\folhaderosto
+
+\abreviatura{UTFPR}
+\assuntos{}{}{}{}
+\cutter{F814}
+\cdd{CDD-600}
+
+
+\thispagestyle{empty}
+{
+	\newpage
+	\small
+	~\vfill
+	\begin{center}
+		\begin{tabular}{c}
+			{\scriptsize\textbf{\MakeUppercase{Ficha catalográfica preparada pelo Autor.}}}
+		\end{tabular}
+		\vspace{-0.2cm}
+		\begin{tabular}{|cl|} \hline
+			& \\[-0.1cm]
+			&\parbox[t]{11cm}{\UTFPRcitadata} \\
+			\parbox[t]{1.0cm}{\UTFPRcutter} &\parbox[t]{11cm}{\hspace{0.62cm}
+				\UTFPRtitulodata / \UTFPRautordata~ - \UTFPRlocaldata:  \UTFPRabrev, \UTFPRdatadata.}\\
+			&\parbox[t]{11cm}{\hspace{0.65cm} \pageref{LastPage}f. : il. }\\[-0.2cm]
+			& \\
+			&\hspace{0.67cm} Inclui Bibliografia.\\
+			&\parbox[t]{11cm}{\hspace{0.62cm} \UTFPRdocumentodata\ (\UTFPRniveldata~ em \UTFPRareadata) - \UTFPRinstituicaodata. \UTFPRorientadorStr: \UTFPRorientadordata~  \UTFPRorientadorname.}\\[-0.1cm]
+			& \\
+			&\parbox[t]{11cm}{ \hspace{0.64cm} \UTFPRifnotempty{\UTFPRassuntoum}{1. }{1. Retroalimenta\c{c}\~ao Auditiva Atrasada.}  {\UTFPRassuntodois}{2. }{Gagueira.}  {\UTFPRassuntotres}{3. }{Aplicativo de Aux\'ilio ao Tratamento de Pessoas com Gagueira.}   I. Título.}\\
+			& \\
+			&\parbox[t]{11cm}{ \hfill\hfill \UTFPRcdd} \\[0.2cm]
+			\hline
+		\end{tabular}
+	\end{center}
+} 
 
 
 \termodeaprovacao % <- ainda a ser implementado corretamente
@@ -167,7 +201,7 @@ Este projeto tem como objetivo desenvolver um aplicativo para dispositivos m\'ov
 %
 %%%%% abstract em ingles
 \begin{abstract}
-FRANÇA, Jefferson. \textbf{\UTFPRtitledata.} \UTFPRanodefesa. \pageref{LastPage} f. Master Thesis -- Electrical Engineering Graduate Program, Federal University of Technology - Paraná. Cornélio Procópio, \UTFPRdatadata.
+FRANÇA, Jefferson. \textbf{\UTFPRtitledata.} \UTFPRanodefesa. \pageref{LastPage} f. Dissertation -- Bachelor Degree in Software Enginnering, Federal University of Technology - Paraná. Cornélio Procópio, \UTFPRdatadata.
 
 Stuttering is a disease characterized by the repetition of sounds and syllables, which have no cure but can be treated by a Speech Therapist specializing in the area. There are conventional treatments that work with aspects such as breathing, syllable prolongation and vocal articulation, other treatments, use of technological devices to improve speech fluency.
 Delayed auditory feedback DAF is a method of treating stuttering that simulates the chorus effect, caused when a person who stutters hears their voice repeatedly, with a short delay and in a different tone, causing significant improvements in relation to speech dysfluencies.
