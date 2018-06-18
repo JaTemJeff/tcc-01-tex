@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.23)  16 MAY 2018 13:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.4.25)  18 JUN 2018 17:39
 entering extended mode
 **./modelo_dissertacao.tex
 (modelo_dissertacao.tex
@@ -1534,29 +1534,29 @@ LaTeX Warning: Unused global option(s):
 (modelo_dissertacao.aux (errata.aux))
 \openout1 = `modelo_dissertacao.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 114.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 115.
+(Font)              scaled to size 10.79993pt on input line 114.
 \AtBeginShipoutBox=\box85
-Package hyperref Info: Link coloring ON on input line 115.
+Package hyperref Info: Link coloring ON on input line 114.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1566,9 +1566,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count438
 )
-LaTeX Info: Redefining \ref on input line 115.
-LaTeX Info: Redefining \pageref on input line 115.
-LaTeX Info: Redefining \nameref on input line 115.
+LaTeX Info: Redefining \ref on input line 114.
+LaTeX Info: Redefining \pageref on input line 114.
+LaTeX Info: Redefining \nameref on input line 114.
 \myptabbox=\box86
 \myptabboxwidth=\skip361
 
@@ -1611,7 +1611,7 @@ G,.JBIG2,.JB2,.eps]
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 115.
+(lastpage)             ! on input line 114.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1647,7 +1647,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 115.
+LaTeX Info: Redefining \microtypecontext on input line 114.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1675,7 +1675,7 @@ Package caption Info: End \AtBeginDocument code.
 \tf@default=\write25
 \openout4 = `modelo_dissertacao.idx'.
 
-Package index Info: Writing index file modelo_dissertacao.idx on input line 115
+Package index Info: Writing index file modelo_dissertacao.idx on input line 114
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\floatrow\fr-subfig.sty"
 Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
@@ -1690,15 +1690,15 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@FBLTpage=\count447
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 117.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 117.
+(Font)              scaled to size 10.79993pt on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 12.59991pt on input line 117.
+(Font)              scaled to size 12.59991pt on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 117.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 116.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 12.59991pt on input line 117.
+(Font)              scaled to size 12.59991pt on input line 116.
 \openout4 = `modelo_dissertacao.mw'.
 
  [1
@@ -1706,7 +1706,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 
 
-{C:/Users/Notebook/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Jeff/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -1855,7 +1855,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 128.
+LaTeX Font Info:    Try loading font information for U+msa on input line 127.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1863,7 +1863,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 128.
+LaTeX Font Info:    Try loading font information for U+msb on input line 127.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1874,7 +1874,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 	\newpage
+l.136 	\newpage
                
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -1884,29 +1884,29 @@ l.137 	\newpage
 \openout4 = `modelo_dissertacao.mw'.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 138.
+(Font)              scaled to size 9.85492pt on input line 137.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 142.
+(Font)              scaled to size 8.09995pt on input line 141.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 142.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 141.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.09995pt on input line 142.
+(Font)              scaled to size 8.09995pt on input line 141.
 \openout4 = `modelo_dissertacao.mw'.
 
  [2] (modelo_dissertacao.mw)
 \openout4 = `modelo_dissertacao.mw'.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 165.
+(Font)              scaled to size 8.99994pt on input line 164.
 <brasao.png, id=21, 260.8947pt x 261.6174pt>
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 165.
+Package pdftex.def Info: brasao.png  used on input line 164.
 (pdftex.def)             Requested size: 62.59605pt x 62.76949pt.
 <logo-utfpr.png, id=23, 48.56544pt x 17.77843pt>
 File: logo-utfpr.png Graphic file (type png)
 <use logo-utfpr.png>
-Package pdftex.def Info: logo-utfpr.png  used on input line 165.
+Package pdftex.def Info: logo-utfpr.png  used on input line 164.
 (pdftex.def)             Requested size: 85.35826pt x 31.24886pt.
 
 
@@ -2175,42 +2175,42 @@ Package pdftex.def Info: ./Figuras/arquitetura_figure.png  used on input line 6
 \openout4 = `modelo_dissertacao.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 []|\T1/phv/b/n/12 Requisitos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 []|\T1/phv/b/n/12 Requisitos
  []
 
 
-Overfull \hbox (5.06636pt too wide) in paragraph at lines 127--127
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 130--130
 []|\T1/phv/m/n/12 (-20) RNF01| 
  []
 
 
-Overfull \hbox (4.74344pt too wide) in paragraph at lines 127--127
+Overfull \hbox (4.74344pt too wide) in paragraph at lines 130--130
 []|\T1/phv/m/n/12 (-20) Compatibilidade| 
  []
 
 
-Overfull \hbox (5.06636pt too wide) in paragraph at lines 129--129
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 132--132
 []|\T1/phv/m/n/12 (-20) RNF02| 
  []
 
 
-Overfull \hbox (5.06636pt too wide) in paragraph at lines 131--131
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 134--134
 []|\T1/phv/m/n/12 (-20) RNF03| 
  []
 
 
-Overfull \hbox (1.21904pt too wide) in paragraph at lines 131--131
+Overfull \hbox (1.21904pt too wide) in paragraph at lines 134--134
 []|\T1/phv/m/n/12 (-20) Implementação| 
  []
 
 
-Overfull \hbox (5.06636pt too wide) in paragraph at lines 133--133
+Overfull \hbox (5.06636pt too wide) in paragraph at lines 136--136
 []|\T1/phv/m/n/12 (-20) RNF04| 
  []
 
@@ -2222,7 +2222,7 @@ Overfull \hbox (5.06636pt too wide) in paragraph at lines 133--133
 <./Figuras/class_diagram.png, id=267, 641.39626pt x 611.28375pt>
 File: ./Figuras/class_diagram.png Graphic file (type png)
 <use ./Figuras/class_diagram.png>
-Package pdftex.def Info: ./Figuras/class_diagram.png  used on input line 148.
+Package pdftex.def Info: ./Figuras/class_diagram.png  used on input line 150.
 (pdftex.def)             Requested size: 447.80968pt x 426.79134pt.
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -2232,11 +2232,11 @@ Package pdftex.def Info: ./Figuras/class_diagram.png  used on input line 148.
 <./Figuras/usecase_diagram.png, id=275, 889.07156pt x 810.02625pt>
 File: ./Figuras/usecase_diagram.png Graphic file (type png)
 <use ./Figuras/usecase_diagram.png>
-Package pdftex.def Info: ./Figuras/usecase_diagram.png  used on input line 160.
+Package pdftex.def Info: ./Figuras/usecase_diagram.png  used on input line 162.
 
 (pdftex.def)             Requested size: 468.45177pt x 426.79134pt.
 
-Overfull \hbox (13.20766pt too wide) in paragraph at lines 160--161
+Overfull \hbox (13.20766pt too wide) in paragraph at lines 162--163
  [][] 
  []
 
@@ -2248,7 +2248,7 @@ Overfull \hbox (13.20766pt too wide) in paragraph at lines 160--161
 <./Figuras/activity_diagram.png, id=285, 909.3975pt x 745.28438pt>
 File: ./Figuras/activity_diagram.png Graphic file (type png)
 <use ./Figuras/activity_diagram.png>
-Package pdftex.def Info: ./Figuras/activity_diagram.png  used on input line 171
+Package pdftex.def Info: ./Figuras/activity_diagram.png  used on input line 173
 .
 (pdftex.def)             Requested size: 451.3257pt x 369.88582pt.
 \openout4 = `modelo_dissertacao.mw'.
@@ -2260,7 +2260,7 @@ Package pdftex.def Info: ./Figuras/activity_diagram.png  used on input line 171
 File: ./Figuras/prototipo_telainicial.jpg Graphic file (type jpg)
 <use ./Figuras/prototipo_telainicial.jpg>
 Package pdftex.def Info: ./Figuras/prototipo_telainicial.jpg  used on input lin
-e 185.
+e 187.
 (pdftex.def)             Requested size: 208.05583pt x 369.88582pt.
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -2272,7 +2272,7 @@ e 185.
 File: ./Figuras/prototipo_telapreferencias.jpg Graphic file (type jpg)
 <use ./Figuras/prototipo_telapreferencias.jpg>
 Package pdftex.def Info: ./Figuras/prototipo_telapreferencias.jpg  used on inpu
-t line 194.
+t line 196.
 (pdftex.def)             Requested size: 208.05583pt x 369.88582pt.
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -2283,7 +2283,7 @@ t line 194.
 <./Figuras/prototipo_sobre.jpg, id=303, 1084.05pt x 1927.2pt>
 File: ./Figuras/prototipo_sobre.jpg Graphic file (type jpg)
 <use ./Figuras/prototipo_sobre.jpg>
-Package pdftex.def Info: ./Figuras/prototipo_sobre.jpg  used on input line 203.
+Package pdftex.def Info: ./Figuras/prototipo_sobre.jpg  used on input line 205.
 
 (pdftex.def)             Requested size: 208.05583pt x 369.88582pt.
 \openout4 = `modelo_dissertacao.mw'.
@@ -2415,8 +2415,8 @@ AED: lastpage setting LastPage
 \tf@toc=\write30
 \openout4 = `modelo_dissertacao.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
 (modelo_dissertacao.aux
 \openout4 = `modelo_dissertacao.mw'.
 
@@ -2704,8 +2704,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
 \openout4 = `modelo_dissertacao.mw'.
 
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
 \openout4 = `modelo_dissertacao.brf'.
 
 Package rerunfilecheck Info: File `modelo_dissertacao.brf' has not changed.
@@ -2714,7 +2714,7 @@ Package rerunfilecheck Info: File `modelo_dissertacao.brf' has not changed.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
 \openout4 = `modelo_dissertacao.abreviax'.
 
 \openout4 = `modelo_dissertacao.acronx'.
@@ -2735,11 +2735,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
 
  ) 
 Here is how much of TeX's memory you used:
- 35248 strings out of 492976
- 606513 string characters out of 3135982
- 941530 words of memory out of 3000000
- 38207 multiletter control sequences out of 15000+200000
- 577799 words of font info for 189 fonts, out of 3000000 for 9000
+ 35254 strings out of 492976
+ 606367 string characters out of 3135994
+ 941499 words of memory out of 3000000
+ 38208 multiletter control sequences out of 15000+200000
+ 578238 words of font info for 192 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,17n,102p,10398b,576s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{section*.34} has been referenced but does not exi
@@ -2750,7 +2750,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr
 o8a.pfb>
-Output written on modelo_dissertacao.pdf (33 pages, 1328662 bytes).
+Output written on modelo_dissertacao.pdf (33 pages, 1329522 bytes).
 PDF statistics:
  505 PDF objects out of 1000 (max. 8388607)
  112 named destinations out of 1000 (max. 500000)

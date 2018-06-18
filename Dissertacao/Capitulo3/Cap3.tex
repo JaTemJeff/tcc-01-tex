@@ -54,7 +54,7 @@ Para o desenvolvimento do aplicativo descrito neste documento, utiliza-se uma me
 \subsection{Arquitetura}
 Utiliza-se como arquitetura de desenvolvimento, a arquitetura de camadas do software Android, que \'e executado sobre um \textit{kernel} Linux. Os aplicativos Android s\~ao gravados na linguagem de programa\c{c}\~ao Java e s\~ao executados em uma \sigla{VM} {m\'aquina virtual} \cite{Ableson2009}.
 
-A figura a seguir apresenta a maioria dos componentes da plataforma Android. 
+A figura 5 situada logo abaixo apresenta a maioria dos componentes da plataforma Android. 
 \begin{figure}[H]
 	\centering
 	%\captionsetup{width=0.97\textwidth}
@@ -87,6 +87,8 @@ A prioridade dos requisitos pode ser classificada em:
 	
 \end{itemize}
 
+A tabela 1 apresenta os requisitos funcionais do sistema, contendo sua descric\~ao, prioridade e os requisitos relacionados. 
+
 \begin{table}[H]
 	\caption{Requisitos Funcionais}\label{tab:reqfuncionais}
 	\centering
@@ -116,6 +118,7 @@ A prioridade dos requisitos pode ser classificada em:
 	\fonte{O Autor.}	
 \end{table}
 
+A tabela 2 apresenta os requisitos n/~ao funcionais do sistema, de acordo com sua prioridade. 
 
 \begin{table}[H]
 	\caption{Requisitos N\~ao-Funcionais}\label{tab:reqnaofuncionais}
@@ -139,8 +142,7 @@ A prioridade dos requisitos pode ser classificada em:
 
 \subsection{Diagrama de Classes}
 
-Apresenta-se o diagrama de classes, uma representa\c{c}\~ao da estrutura e rela\c{c}\~oes das classes que servem de modelo para objetos \cite{Tybel2017}.
-
+Apresenta-se o diagrama de classes, uma representa\c{c}\~ao da estrutura e rela\c{c}\~oes das classes que servem de modelo para objetos \cite{Tybel2017}. Visualizar figura 6. 
 \begin{figure}[H]
 	\centering
 	%\captionsetup{width=0.97\textwidth}
@@ -151,7 +153,7 @@ Apresenta-se o diagrama de classes, uma representa\c{c}\~ao da estrutura e rela\
 
 \subsection{Diagrama de Casos de Uso}
 
-Apresenta-se o diagrama de casos de uso, documentando o que o sistema faz do ponto de vista do usu\'ario, ou seja, descreve as principais funcionalidades do sistema e a intera\c{c}\~ao dessas funcionalidades com os usu\'arios do mesmo sistema \cite{Ribeiro2012}.
+Apresenta-se o diagrama de casos de uso, documentando o que o sistema faz do ponto de vista do usu\'ario, ou seja, descreve as principais funcionalidades do sistema e a intera\c{c}\~ao dessas funcionalidades com os usu\'arios do mesmo sistema \cite{Ribeiro2012}. Visualizar figura 7. 
 
 \begin{figure}[H]
 	\centering
@@ -163,7 +165,7 @@ Apresenta-se o diagrama de casos de uso, documentando o que o sistema faz do pon
 
 \subsection{Diagrama de Atividades}
 
-Apresenta-se o diagrama de atividades, com o objetivo de mostrar o fluxo de atividades em um \'unico processo, especificando o comportamento do software do ponto de vista funcional \cite{Ventura2016a}. 
+Apresenta-se o diagrama de atividades, com o objetivo de mostrar o fluxo de atividades em um \'unico processo, especificando o comportamento do software do ponto de vista funcional \cite{Ventura2016a}. Visualizar figura 8. 
 \begin{figure}[H]
 	\centering
 	%\captionsetup{width=0.97\textwidth}
@@ -177,7 +179,7 @@ Apresenta-se o diagrama de atividades, com o objetivo de mostrar o fluxo de ativ
 Apresenta-se os prot\'otipos de tela do sistema. 
 
 \begin{itemize}
-	\item Tela Inicial: Nesta tela o usu\'ario tem acesso a todas as funcionalidades do sistema, al\'em de iniciar a simula\c{c}\~ao do efeito coro, ele pode ajustar o atraso e a frequ\^encia de acordo com suas prefer\^encias, tamb\'em tem a op\c{c}\~ao de ativar e desativar a fun\c{c}\~ao de utilizar \textit{headset bluetooth}, localizado no canto superior esquerdo da tela, juntamente com desativar as notifica\c{c}\~oes marcando o \textit{combobox} "Desativar notifica\c{c}\~oes. Desta tela tamb\'em existe a op\c{c}\~ao de navegar entre as telas "Sobre" e "Prefer\^encias", selecionando o \'icone referente a cada tela localizados no canto superior direito.
+	\item Tela Inicial: Nesta tela o usu\'ario tem acesso a todas as funcionalidades do sistema, al\'em de iniciar a simula\c{c}\~ao do efeito coro, ele pode ajustar o atraso e a frequ\^encia de acordo com suas prefer\^encias, tamb\'em tem a op\c{c}\~ao de ativar e desativar a fun\c{c}\~ao de utilizar \textit{headset bluetooth}, localizado no canto superior esquerdo da tela, juntamente com desativar as notifica\c{c}\~oes marcando o \textit{combobox} "Desativar notifica\c{c}\~oes. Desta tela tamb\'em existe a op\c{c}\~ao de navegar entre as telas "Sobre" e "Prefer\^encias", selecionando o \'icone referente a cada tela localizados no canto superior direito. Visualizar figura 9.
 	\begin{figure}[H]
 		\centering
 		%\captionsetup{width=0.97\textwidth}
@@ -186,7 +188,7 @@ Apresenta-se os prot\'otipos de tela do sistema.
 		\fonte{O Autor.}
 	\end{figure}
 	
-	\item Tela Prefer\^encias: Nesta tela o usu\'ario pode criar, alterar, ou excluir um modo, adicionando o atraso e frequ\^encia desejados, al\'em de selecionar as op\c{c}\~oes de ativar/desativar \textit{headset bluetooth} e notifica\c{c}\~oes;
+	\item Tela Prefer\^encias: Nesta tela o usu\'ario pode criar, alterar, ou excluir um modo, adicionando o atraso e frequ\^encia desejados, al\'em de selecionar as op\c{c}\~oes de ativar/desativar \textit{headset bluetooth} e notifica\c{c}\~oes. Visualizar figura 10.
 	\begin{figure}[H]
 		\centering
 		%\captionsetup{width=0.97\textwidth}
@@ -195,7 +197,7 @@ Apresenta-se os prot\'otipos de tela do sistema.
 		\fonte{O Autor.}
 	\end{figure}
 
-	\item  Tela Sobre: Nesta tela o usu\'ario encontra informa\c{c}\~oes sobre o aplicativo, assim como informa\c{c}\~oes sobre o funcionamento do aplicativo e um tutorial de ajuda. 
+	\item  Tela Sobre: Nesta tela o usu\'ario encontra informa\c{c}\~oes sobre o aplicativo, assim como informa\c{c}\~oes sobre o funcionamento do aplicativo e um tutorial de ajuda. Visualizar figura 11.
 	\begin{figure}[H]
 		\centering
 		%\captionsetup{width=0.97\textwidth}
@@ -207,7 +209,7 @@ Apresenta-se os prot\'otipos de tela do sistema.
 
 \section{Cronograma}
 
-Apresenta-se o cronograma, determinando todas as atividades do processo de desenvolvimento do software, com o per\'iodo definido de 10 meses, definido de acordo com o programa "Protagonismo Estudantil", projeto ao qual a proposta do aplicativo apresentado neste documento foi contemplado com bolsa remunerada, tendo in\'inicio em outubro de 2017. 
+Apresenta-se o cronograma, determinando todas as atividades do processo de desenvolvimento do software, com o per\'iodo definido de 10 meses, definido de acordo com o programa "Protagonismo Estudantil", projeto ao qual a proposta do aplicativo apresentado neste documento foi contemplado com bolsa remunerada, tendo in\'inicio em outubro de 2017. A tabela 3 apresenta o cronograma. 
 
 \begin{table}[H]
 	 \caption{Cronograma de atividades}
