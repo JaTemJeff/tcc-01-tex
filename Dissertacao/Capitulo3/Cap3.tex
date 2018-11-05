@@ -3,7 +3,7 @@
 
 A proposta desse projeto \'e desenvolver um aplicativo para dispositivos m\'oveis com sistema operacional Android, tendo como fun\c{c}\~ao principal o \sigla{RAA}{retroalimenta\c{c}\~ao auditiva atrasada}, ou seja, um aplicativo que consiga reproduzir a voz do usu\'ario simultaneamente com um pequeno atraso configur\'avel, num tom diferente tamb\'em configur\'avel. 
 
-O atraso \'e medido em milissegundos, sendo poss\'ivel utilizar o intervalo entre 100 e 3000 milissegundos (0,1 e 3 segundos). A frequ\^encia \'e medida em Mega-hertz, possuindo as op\c{c}\~oes de quatro intervalos: 500, 1.000, 2.000 e 4.000 Mhz respectivamente.  Esses dados foram obtidos atrav\'es de uma pesquisa, onde participaram 20 indiv\'iduos com gagueira de 7 a 17 anos, resultando em uma diminui\c{c}\~ao estatisticamente significante na ocorr\^encia de bloqueios e repeti\c{c}\~oes de palavras em indiv\'iduos com gagueira sem altera\c{c}\~ao do processamento auditivo central, ou seja, sem altera\c{c}\~ao na capacidade que o sistema nervoso tem para traduzir as informa\c{c}\~oes enviadas pela audi\c{c}\~ao \cite{PICOLOTO2017}.
+O atraso \'e medido em milissegundos, sendo poss\'ivel utilizar o intervalo entre 250 e 3000 milissegundos (de 0,25 a 3 segundos). A frequ\^encia \'e medida em Hertz, possuindo as op\c{c}\~oes de intervalos entre 500 e 2.000 Hertz.  Esses dados foram obtidos atrav\'es de uma pesquisa, onde participaram 20 indiv\'iduos com gagueira de 7 a 17 anos, resultando em uma diminui\c{c}\~ao estatisticamente significante na ocorr\^encia de bloqueios e repeti\c{c}\~oes de palavras em indiv\'iduos com gagueira sem altera\c{c}\~ao do processamento auditivo central, ou seja, sem altera\c{c}\~ao na capacidade que o sistema nervoso tem para traduzir as informa\c{c}\~oes enviadas pela audi\c{c}\~ao \cite{PICOLOTO2017}.
 
 A finalidade dessas configura\c{c}\~oes que devem ser adaptadas para cada indiv\'iduo \'e simular o efeito coro, que nada mais \'e do que um efeito causado quando uma pessoa que possui gagueira, fala ou l\^e ao mesmo tempo que outra, trazendo melhorias significativas na fala \cite{Udemo2008}.
 
@@ -87,7 +87,7 @@ A prioridade dos requisitos pode ser classificada em:
 	
 \end{itemize}
 
-A tabela 1 apresenta os requisitos funcionais do sistema, contendo sua descric\~ao, prioridade e os requisitos relacionados. 
+A Tabela 1 apresenta os requisitos funcionais do sistema, contendo sua descric\~ao, prioridade e os requisitos relacionados. 
 
 \begin{table}[H]
 	\caption{Requisitos Funcionais}\label{tab:reqfuncionais}
@@ -95,25 +95,34 @@ A tabela 1 apresenta os requisitos funcionais do sistema, contendo sua descric\~
 	\begin{tabular}{|p{1.0cm}|p{8.0cm}|p{2.0cm}|p{2.5cm}|}
 		\hline
 		\textbf{Id} & \textbf{Descri\c{c}\~ao} & \textbf{Prioridade} & \textbf{Requisitos Relacionados}\\
+	
 		\hline
-		RF01 & O aplicativo deve permitir ao usu\'ario editar as prefer\^encias de utiliza\c{c}\~ao do aplicativo, como tipo de fone utilizado, altura do volume, frequ\^encia e atraso. & Essencial & RF02 - RF04\\
+		RF01 & O aplicativo deve permitir ao usu\'ario editar as prefer\^encias de frequ\^encia e atraso. & Essencial & RF02 - RF04\\
+		
 		\hline
 		RF02 & O aplicativo deve permitir ao usu\'ario iniciar e interromper a simula\c{c}\~ao do efeito coro. & Essencial & N/A \\
+		
 		\hline
-		RF03 & O aplicativo deve manter salva as prefer\^encias de utiliza\c{c}\~ao. & Importante & RF01 - RF04\\
+		RF03 & O aplicativo deve permitir a utiliza\c{c}\~ao de fone de ouvido \textit{bluetooth}. & Importante & RF01 - RF002\\
+		
 		\hline
-		RF04 & O aplicativo deve fornecer a op\c{c}\~ao de um tutorial em seu primeiro uso. & Importante & N/A\\
+		RF04 & O aplicativo deve conter uma tela "Sobre", contendo informa\c{c}\~oes sobre a utiliza\c{c}\~ao do aplicativo. & Desej\'avel & 
+		N/A\\
+		
 		\hline
-		RF05 & O aplicativo deve permitir a utiliza\c{c}\~ao de fone \textit{bluetooth}. & Importante & RF01 - RF002\\
+		RF05 & O aplicativo deve permitir criar e selecionar modos personalizados, como a cria\c{c}\~ao de: modo casa, modo apresenta\c{c}\~ao, modo tutorial, entre outros. Onde cada modo possui prefer\^encias pr\'e-definidas. & Desej\'avel & RF01-RF03\\
+		
 		\hline
-		RF06 & O aplicativo deve permitir ao usu\'ario uma op\c{c}\~ao de n\~ao receber liga\c{c}\~oes, enquanto o aplicativo estiver executando a simula\c{c}\~ao do efeito coro. & Desej\'avel & RF01\\
+		RF06 & O aplicativo deve conter uma tela "Modos", onde \'e poss\'ivel visualizar todos os modos cadastrados. & Desej\'avel & RF05\\
+		
 		\hline
-		RF07 & O aplicativo deve conter uma tela de ajuda, onde existir\'a informa\c{c}\~oes sobre a utiliza\c{c}\~ao do aplicativo. & Desej\'avel & RF03\\
+		RF07 & O aplicativo deve permitir excluir um modo. & Desej\'avel & RF05-RF06\\
+		
 		\hline
-		RF08 & O aplicativo deve permitir visualizar o registro de vezes em que o usu\'ario utilizou o aplicativo. & Desej\'avel & RF02\\
-		\hline
-		RF09 & O aplicativo deve permitir modos personalizados, como a cria\c{c}\~ao de: modo casa, modo apresenta\c{c}\~ao, modo tutorial, entre outros. Onde cada modo possui prefer\^encias pr\'e-definidas. & Desej\'avel & RF01-RF03\\
+		RF08 & O aplicativo deve dar suporte para os idiomas ingl\^es e portugu\^es. Traduzindo todos os elementos de interface de acordo com a linguagem do dispositivo. & Desej\'avel & N/A\\
+		
 		\hline	
+	
 	\end{tabular}
 	\fonte{O Autor.}	
 \end{table}
@@ -174,60 +183,72 @@ Apresenta-se o diagrama de atividades, com o objetivo de mostrar o fluxo de ativ
 	\fonte{O Autor.}
 \end{figure}
 
-\section{Prot\'otipos de Tela}
+\section{Desenvolvimento de Telas}
 
-Apresenta-se os prot\'otipos de tela do sistema. 
+Apresenta-se as telas do sistema. 
 
 \begin{itemize}
-	\item Tela Inicial: Nesta tela o usu\'ario tem acesso a todas as funcionalidades do sistema, al\'em de iniciar a simula\c{c}\~ao do efeito coro, ele pode ajustar o atraso e a frequ\^encia de acordo com suas prefer\^encias, tamb\'em tem a op\c{c}\~ao de ativar e desativar a fun\c{c}\~ao de utilizar \textit{headset bluetooth}, localizado no canto superior esquerdo da tela, juntamente com desativar as notifica\c{c}\~oes marcando o \textit{combobox} "Desativar notifica\c{c}\~oes. Desta tela tamb\'em existe a op\c{c}\~ao de navegar entre as telas "Sobre" e "Prefer\^encias", selecionando o \'icone referente a cada tela localizados no canto superior direito. Visualizar figura 9.
+	\item Tela Inicial: Nesta tela o usu\'ario tem acesso a todas as funcionalidades do sistema, al\'em de iniciar a simula\c{c}\~ao do efeito coro, ele pode ajustar o atraso e a frequ\^encia de acordo com suas prefer\^encias, tamb\'em tem as op\c{c}\~oes de selecionar e adicionar um novo modo. Desta tela tamb\'em existe a op\c{c}\~ao de navegar entre as telas "Sobre" e " Modos", selecionando a op\c{c}\~ao referente a cada tela no menu localizados no canto superior direito. Visualizar figura 9.
 	\begin{figure}[H]
 		\centering
 		%\captionsetup{width=0.97\textwidth}
-		\caption[Prot\'otipo Tela Inicial]{Prot\'otipo Tela Inicial. \label{fig:prototipotelainicial}}
-		\includegraphics[height=13cm]{./Figuras/prototipo_telainicial.jpg}% <- formatos PNG, JPG e PDF
+		\caption[Tela Inicial]{Tela Inicial. \label{fig:prototipotelainicial}}
+		\includegraphics[height=13cm]{./Figuras/prototipo_telainicial.png}% <- formatos PNG, JPG e PDF
 		\fonte{O Autor.}
 	\end{figure}
 	
-	\item Tela Prefer\^encias: Nesta tela o usu\'ario pode criar, alterar, ou excluir um modo, adicionando o atraso e frequ\^encia desejados, al\'em de selecionar as op\c{c}\~oes de ativar/desativar \textit{headset bluetooth} e notifica\c{c}\~oes. Visualizar figura 10.
+	\item Tela Modos: Nesta tela o usu\'ario pode visualizar todos os modos cadastrados, al\'em da possibilidade de excluir um modo, para isso basta clicar e segurar por alguns segundos em um modo, assim a op\c{c}\~ao "Excluir" ser\'a exibida. Visualizar figura 10.
 	\begin{figure}[H]
 		\centering
 		%\captionsetup{width=0.97\textwidth}
-		\caption[Prot\'otipo Tela Prefer\^encias]{Prot\'otipo Tela Prefer\^encia. \label{fig:prototipotelapreferencias}}
-		\includegraphics[height=13cm]{./Figuras/prototipo_telapreferencias.jpg}% <- formatos PNG, JPG e PDF
+		\caption[Tela Modos]{Tela Modos. \label{fig:prototipotelapreferencias}}
+		\includegraphics[height=13cm]{./Figuras/prototipo_telapreferencias.png}% <- formatos PNG, JPG e PDF
 		\fonte{O Autor.}
 	\end{figure}
 
-	\item  Tela Sobre: Nesta tela o usu\'ario encontra informa\c{c}\~oes sobre o aplicativo, assim como informa\c{c}\~oes sobre o funcionamento do aplicativo e um tutorial de ajuda. Visualizar figura 11.
+	\item  Tela Sobre: Nesta tela o usu\'ario encontra informa\c{c}\~oes sobre o desenvolvimento do aplicativo, assim como informa\c{c}\~oes sobre o funcionamento do aplicativo. Visualizar figura 11.
 	\begin{figure}[H]
 		\centering
 		%\captionsetup{width=0.97\textwidth}
-		\caption[Prot\'otipo Tela Sobre]{Prot\'otipo Tela Sobre. \label{fig:prototiposobre}}
-		\includegraphics[height=13cm]{./Figuras/prototipo_sobre.jpg}% <- formatos PNG, JPG e PDF
+		\caption[Tela Sobre]{Tela Sobre. \label{fig:prototiposobre}}
+		\includegraphics[height=13cm]{./Figuras/prototipo_sobre.png}% <- formatos PNG, JPG e PDF
 		\fonte{O Autor.}
 	\end{figure}
 \end{itemize}
 
-\section{Cronograma}
+\section{C\'odigo Fonte}
 
-Apresenta-se o cronograma, determinando todas as atividades do processo de desenvolvimento do software, com o per\'iodo definido de 10 meses, definido de acordo com o programa "Protagonismo Estudantil", projeto ao qual a proposta do aplicativo apresentado neste documento foi contemplado com bolsa remunerada, tendo in\'inicio em outubro de 2017. A tabela 3 apresenta o cronograma. 
+O c\'odigo fonte do aplicativo es\'a versionado e dispon\'ivel no reposit\'orio do github: <https://github.com/JaTemJeff/daf-app-utfpr-cp-2018>, encontra-se em sua vers\~ao de build 1.3, ultima atualiza\c{c}\~ao em 04/11/2018. 
 
-\begin{table}[H]
-	 \caption{Cronograma de atividades}
-	 \label{tab:cronograma}
-	 \begin{center}
-		  \begin{tabular}{|l||c|c|c|c|c|c|c|c|c|c|}
-			    \hline
-			    \multicolumn{1}{|c||}{Fase} 	&Out     			&Nov     			&Mar     			&Abr   			&Mai 				&Jun 			&Jul 			&Ago			&Set				&Out\\ \hline
-			    Levantamento de requisitos 	& $\bullet$  	&           	&          		&         		&  				&  			&  			&			&	 			&\\
-			    An\'alise de requisitos    	& $\bullet$     &  				& 				&         		&  				&  			&  			& 			&				&\\
-			    Projeto   				   	&           	&$\bullet$    	& 				& 				&  				&  			&  			& 			&				&\\
-			    Implementa\c{c}\~ao   	   	&           	&          		&$\bullet$   	&$\bullet$    	&$\bullet$		&$\bullet$ 	&$\bullet$ 	&			&				&\\
-			    Testes    				   	&           	&           	& 				&$\bullet$ 		&$\bullet$ 		&$\bullet$ 	&$\bullet$  &$\bullet$	&				&\\
-			    Implanta\c{c}\~ao    	   	&           	&           	&				& 				&  				&  			&  			&		 	&$\bullet$		&\\
-			    Divulga\c{c}\~ao 		   	& 				& 				&				&				&				& 			&			& 			& 				&$\bullet$\\
-			    \hline
-			  \end{tabular}
-		 \vspace{8pt} %%%% Deve ser acrescentado para que haja espaço entre o final da tabela e a fonte.
-		  \fonte{O Autor.}
-		 \end{center}
-\end{table}
+O principal m\'etodo respons\'avel pela simula\c{c}\~ao do efeito coro, se encontra na classe "MainActvity" denominado \textit{"start()"}. Composto por outros m\'etodos e vari\'aveis, que foram implementados utilizando a biblioteca \textit{"RxAndroidAudio"} disponibilizada pelo fornecedor \textit{"Piasy"}, dispon\'ivel em: <https://github.com/Piasy/RxAndroidAudio>. Abaixo s\~ao descritos as responsabilidades dos principais m\'etodos que comp\~oe o m\'etodo \textit{"start()"}: 
+
+\begin{itemize}
+	
+	\item  M\'etodo \textit{"stopRecord()"} - respon\'avel por intenrromper a grava\c{c}\~ao de \'audio. 
+	
+	\item  M\'etodo \textit{"startRecord()"} - respons\'avel por iniciar a grava\c{c}\~ao de \'audio. 
+	
+	\item M\'etodo \textit{"playChanged()"} - respons\'avel por aplicar a frequ\^encia na faixa de \'audio reproduzida.  
+	
+\end{itemize}
+
+ A Figura 12 apresenta o m\'etodo \textit{"start()"}. Onde as linhas 305 at\'e 309 s\~ao repons\'aveis por verificar se o \'audio est\'a sendo gravado, caso esteja, \'e chamado o metodo \textit{"stopRecord()"}, interrompendo a grava\c{c}\~ao, alterando a imagem de \textit{background} do bot\~ao iniciar e o texto abaixo dele, al\'em de setar como \textit{"false"} a vari\'avel \textit{"mIsRecording"} utilizada para a verifica\c{c}\~ao se o \'audio est\'a sendo gravado ou n\~ao.
+ 
+ As linhas 310 at\'e 325 s\~ao respons\'aveis por garantir as permiss\~oes de utilizac{c}\~ao do aplicativo, que s\~ao as de microfone e acesso ao armazenamento. Assim, caso as permiss\~oes ainda n\~ao estejam concedidas, nas linhas 314 at\'e 325 utiliza-se a biblioteca \textit{"RxPermissions"} disponibilizada pelo fornecedor \textit{"tbruyelle"}, dispon\'ivel em: <https://github.com/tbruyelle/RxPermissions>, para conceder essas permiss\~oes, bastando o usu\'ario aceitar essa a\c{c}\~ao.
+ 
+ As linhas 327 at\'e 337, destinam-se a gravar e reproduzir o \'audio setando as prefer\^encias de atraso e frequ\^encia do usu\'ario. Caso a vari\'avel \textit{"mIsRecording"} tenha o valor como \textit{false}, utiliza-se o m\'etodo \textit{"startRecord()"} para iniciar a grava\c{c}\~ao. Para reproduzir o \'audio de acordo com a frequ\^encia utiliza-se o m\'etodo \textit{"playChanged()"}, onde dentro deste m\'etodo existe uma vari\'avel chamada de \textit{"mRatio"}, respons\'avel por armazenar o valor do \textit{seekbar} "Frequ\^encia", ficando assim a defini\c{c}\~ao de acordo com oque for setado pelo usu\'ario. Para setar o atraso utiliza se o m\'etodo \textit{"schedule()"} da classe \textit{timer}, passando como par\^ametro a vari\'avel \textit{mAtraso} respons\'avel por armazenar o valor do \textit{seekbar} "Atraso". 
+ 
+ \begin{figure}[H]
+ 	\centering
+ 	%\captionsetup{width=0.97\textwidth}
+ 	\caption[M\'etodo \textit{"start()"}]{M\'etodo \textit{"start()"}. \label{fig:metodostart}}
+ 	\includegraphics[height=13cm]{./Figuras/metodo_start.png}% <- formatos PNG, JPG e PDF
+ 	\fonte{O Autor.}
+ \end{figure}
+ 
+ 
+
+
+
+
+

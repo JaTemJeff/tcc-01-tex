@@ -27,8 +27,8 @@
 \contentsline {subsection}{\numberline {3.3.3}Diagrama de Classes}{23}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}Diagrama de Casos de Uso}{24}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}Diagrama de Atividades}{25}{subsection.3.3.5}
-\contentsline {section}{\numberline {3.4}Prot\'otipos de Tela}{26}{section.3.4}
-\contentsline {section}{\numberline {3.5}Cronograma}{29}{section.3.5}
+\contentsline {section}{\numberline {3.4}Desenvolvimento de Telas}{26}{section.3.4}
+\contentsline {section}{\numberline {3.5}C\'odigo Fonte}{29}{section.3.5}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{31}{section*.33}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{32}{section*.33}
